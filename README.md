@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .VC one-word domains still available to buy.
 
-This dataset contains 3,614 .VC one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,608 .VC one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.VC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=vc-oneword-domains&utm_content=description.top) (3,612) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
