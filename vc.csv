@@ -412,6 +412,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26b1b7b4-7e28-4bbb-bb31-28a2468e07fe,motorinsurance.vc,available,39,,60,4,15,name.com,,
 26b857f1-34d2-4b5f-bb73-5933d6ad429c,keepfrom.vc,available,39,,52,1,9,name.com,,
 26d6bd0a-a13e-4d7c-b99e-afb03c7f8d8b,getupin.vc,available,39,,74,1,9,name.com,,
+270a5acd-4cad-4938-9c1c-0a2ec900a6af,recording.vc,premium,,,76,13,9,,,
 270e218a-ab52-472b-80e2-e45ecebfd312,specks.vc,available,39,,44,5,6,name.com,,
 27203c2e-7f9d-4ea5-ab11-6528a80de2b9,attends.vc,available,39,,54,6,7,name.com,,
 27272b37-71f4-4c62-9a6f-10442459e673,insummation.vc,available,39,,50,1,12,name.com,,
@@ -987,6 +988,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b21f10d-4328-47f4-970a-f8718247202f,gettheidea.vc,available,39,,79,0,12,name.com,,
 5b2fb048-1803-4fdd-8b68-4cbe8e5e6b18,coffeemakers.vc,available,39,,62,3,12,name.com,,
 5b329d2f-de5d-40fe-94e0-e9bed20cc7f5,counterfeits.vc,available,39,,40,2,12,name.com,,
+5b596a60-96b1-483e-a050-d24254953b58,seaside.vc,resell,,,72,19,7,"NameCheap, Inc.",25/04/2017 12:25,25/04/2027 12:25
 5b64ae90-a93a-4d04-8395-c51c04255710,overstatement.vc,available,39,,54,2,13,name.com,,
 5ba52fb7-9af7-44e6-bf25-f32bd844819e,mentioning.vc,available,39,,52,2,10,name.com,,
 5bd97e2a-9ba8-458c-bd59-8b49800ac19c,sentences.vc,available,39,,60,5,9,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c234ef4-9f37-4583-be80-8807bb8e783d,lunchware.vc,available,39,,78,1,9,name.com,,
 5c27aea1-fb4c-49f1-b46e-ca8735871fad,utilizing.vc,available,39,,54,2,9,name.com,,
 5c55d74a-0c0f-4386-8eb0-779915b4e2e4,totals.vc,available,39,,56,6,6,name.com,,
-5c5ac828-10f1-4e7d-8215-4a1e7405fbaf,wrists.vc,available,39,,49,3,6,name.com,,
-5c63b4a2-99b3-436d-b36e-875e1ad21179,costprice.vc,available,39,,70,4,10,name.com,,
