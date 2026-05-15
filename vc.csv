@@ -717,6 +717,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 41ca98ea-e9dc-4316-b581-e4b3ec6089a9,lordover.vc,available,39,,72,1,9,name.com,,
 41e8ec62-b60d-47c7-91fd-03e912422a6d,reads.vc,available,39,,54,10,5,name.com,,
 41ebf088-eeb4-4f84-95e7-5fb8c1039164,comeonover.vc,available,39,,78,2,12,name.com,,
+41f980da-c621-4f35-9840-6a814c40a352,had.vc,premium,,,70,14,3,,,
 421bf8dd-019d-449d-b841-ad5b253bd579,ambitions.vc,available,39,,64,7,9,name.com,,
 422719d8-ad25-400f-af14-7870593e5edb,equalization.vc,available,39,,74,1,12,name.com,,
 4234f16f-3896-4f54-8c3b-bfc20f99d6e8,adverbs.vc,available,39,,50,3,7,name.com,,
@@ -911,7 +912,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53ba82e7-ccd5-4be1-aaec-89654c1e5d64,intheissue.vc,available,39,,50,1,12,name.com,,
 53c96a90-fdbd-4382-ae11-74854b888e92,squalls.vc,available,39,,44,2,7,name.com,,
 5413c9b8-8351-4e0a-bca6-4c33803b0cd1,startin.vc,available,39,,71,6,8,name.com,,
-5417f327-8a37-48d6-97c1-13b9da8ee836,goodlife.vc,resell,,,60,33,9,Dynadot Inc,15/11/2025 08:00,15/11/2026 08:00
+5417f327-8a37-48d6-97c1-13b9da8ee836,goodlife.vc,resell,,,60,31,9,Dynadot Inc,15/11/2025 08:00,15/11/2026 08:00
 5426b2fe-ca5d-4406-8df1-70027e542a89,TyphoidMary.vc,available,41.98,,59,1,12,namecheap,,
 544cc2eb-01cc-480d-aa58-cf8b563fd22e,dowithout.vc,available,39,,68,1,10,name.com,,
 545ef4f3-793a-4fe0-98a2-634cf486a0d5,photocopying.vc,available,39,,68,2,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5c1f2712-5493-4d06-8383-facfdc6c4f75,spellitout.vc,available,39,,74,2,12,name.com,,
 5c234ef4-9f37-4583-be80-8807bb8e783d,lunchware.vc,available,39,,78,1,9,name.com,,
 5c27aea1-fb4c-49f1-b46e-ca8735871fad,utilizing.vc,available,39,,54,2,9,name.com,,
-5c55d74a-0c0f-4386-8eb0-779915b4e2e4,totals.vc,available,39,,56,6,6,name.com,,
