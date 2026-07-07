@@ -1,10 +1,10 @@
-# Available .VC One-Word Domains (10,006)
+# Available .VC One-Word Domains (10,007)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C006%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C007%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .vc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,006 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,007 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,006 domains · **Median ask:** $39.16 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,007 domains · **Median ask:** $38.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vc`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vc`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VC one-word domain ca
 
 ### Files
 
-- `vc.csv` — public CSV extract (1,000 rows)
-- `vc.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vc.csv`, public CSV extract (1,000 rows)
+- `vc.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| RedSox.vc       | available | $41.98    | —             | 72             | 60     | 7      | namecheap        |
-| winners.vc      | resell    | —         | —             | 60             | 81     | 7      | GoDaddy.com, LLC |
-| had.vc          | premium   | —         | —             | 70             | 14     | 3      | —                |
-| neuroscience.vc | available | $39       | —             | 80             | 37     | 12     | name.com         |
-| Books.vc        | resell    | —         | —             | 52             | 49     | 5      | Sav.com, LLC     |
-| recording.vc    | premium   | —         | —             | 76             | 13     | 9      | —                |
-| KFC.vc          | available | $41.98    | —             | 74             | 27     | 3      | namecheap        |
-| Tools.vc        | resell    | —         | —             | 56             | 40     | 5      | Name.com, Inc.   |
-| pops.vc         | available | $39       | —             | 74             | 24     | 4      | name.com         |
-| tokens.vc       | resell    | —         | —             | 51             | 36     | 6      | Name.com, Inc.   |
-| whats.vc        | available | $39       | —             | 58             | 24     | 5      | name.com         |
-| tickets.vc      | resell    | —         | —             | 64             | 34     | 7      | Dynadot Inc      |
-| motorsport.vc   | available | $39       | —             | 74             | 23     | 10     | name.com         |
-| eye.vc          | resell    | —         | —             | 66             | 32     | 3      | Zhuimi Inc       |
-| webshop.vc      | available | $39       | —             | 76             | 22     | 8      | name.com         |
-| William.vc      | resell    | —         | —             | 74             | 31     | 7      | GoDaddy.com, LLC |
-| Tests.vc        | available | $41.98    | —             | 49             | 21     | 5      | namecheap        |
-| goodlife.vc     | resell    | —         | —             | 60             | 31     | 9      | Dynadot Inc      |
-| registration.vc | available | $39       | —             | 75             | 19     | 12     | name.com         |
-| solutions.vc    | resell    | —         | —             | 56             | 31     | 9      | Dynadot Inc      |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Ann.vc  | available | $41.98    | —             | high           | low    | 3      | namecheap        |
+| ada.vc  | resell    | —         | —             | medium         | medium | 3      | Edomains LLC     |
+| LLP.vc  | available | $39       | —             | high           | low    | 3      | name.com         |
+| aft.vc  | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
+| UML.vc  | available | $39       | —             | high           | low    | 3      | name.com         |
+| gym.vc  | resell    | —         | —             | high           | low    | 3      | Epik LLC         |
+| xiv.vc  | available | $39       | $46.99        | high           | low    | 3      | name.com         |
+| His.vc  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
+| ages.vc | available | $39       | —             | medium         | low    | 4      | name.com         |
+| job.vc  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
+| ahuh.vc | available | $39       | —             | high           | low    | 4      | name.com         |
+| law.vc  | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.   |
+| aids.vc | available | $39       | —             | medium         | low    | 4      | name.com         |
+| odd.vc  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| bern.vc | available | $39       | —             | high           | low    | 4      | name.com         |
+| sub.vc  | resell    | —         | —             | high           | low    | 3      | Epik LLC         |
+| came.vc | available | $39       | —             | high           | low    | 4      | name.com         |
+| veg.vc  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
+| chin.vc | available | $39       | —             | medium         | low    | 4      | name.com         |
+| bird.vc | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,006 live domains                        |
+| 1,000-row public sample | 10,007 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all .vc names, a niche extension often associated with venture capital but also used for short, brandable words. In this selection, the names range from very concise terms like ant.vc and large.vc to broader dictionary words like dissent.vc, baking.vc, and touring.vc. For founders, the main question is whether the word is memorable and credible with a .vc ending. For investors, the key test is whether the term has resale relevance beyond novelty. With a median ask of 39.16, price discipline matters less than choosing words with clear meaning, clean spelling, and a believable fit for the extension.
+This selection covers one-word and short-phrase .vc domain names, from everyday words like Friends.vc and NewWorld.vc to compound phrases such as comeonline.vc and letitalone.vc. Pricing sits near a median ask of $39, keeping most names accessible for a first purchase or a quick brand test. Because .vc reads as both a venture-styled extension and a country-code domain, tone and length vary widely across the set, so pricing, renewal cost, and spelling simplicity are worth checking individually before buying or shortlisting a name.
 
-- Short words like ant.vc and stan.vc are easy to recall
-- Broad terms can suit brands, funds, media, or communities
-- Check if the word makes natural sense with .vc
-- Favor clean spelling and avoid trademark-heavy terms
+- Median ask near $39 across this .vc selection
+- 10,007 one-word .vc domain names, updated daily
+- Styles range from brandable words to quirky phrases
+- Compare renewal cost before buying or shortlisting
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VC One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VC One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
