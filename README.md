@@ -1,10 +1,10 @@
-# Available .VC One-Word Domains (16,464)
+# Available .VC One-Word Domains (16,546)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C464%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C546%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,464 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **16,546 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,464 domains · **Median ask:** $35.75 · **High-demand under $2,500:** 34
+**Public extract:** 1,000 rows · **Live catalog:** 16,546 domains · **Median ask:** $35.74 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-08-25
+**Last updated:** 2026-09-03
 **Canonical page:** `https://unique.domains/domains/tld/vc`
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,6 @@ print(df.head())
 | christmas.vc | resell    | —         | —             | high           | low    | 9      | Dynadot Inc      |
 | tough.vc     | available | $39       | —             | high           | low    | 5      | name.com         |
 | wholesale.vc | resell    | —         | —             | high           | low    | 9      | Sav.com, LLC     |
-| score.vc     | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
 | aft.vc       | available | $32.98    | $41.98        | low            | low    | 3      | namecheap        |
 | ada.vc       | resell    | —         | —             | medium         | medium | 3      | Edomains LLC     |
 | Ann.vc       | available | $41.98    | —             | high           | low    | 3      | namecheap        |
@@ -84,6 +83,7 @@ print(df.head())
 | sub.vc       | resell    | —         | —             | high           | low    | 3      | Epik LLC         |
 | achy.vc      | available | $32.98    | $41.98        | low            | low    | 4      | namecheap        |
 | veg.vc       | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
+| ages.vc      | available | $39       | —             | medium         | low    | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,464 live domains                        |
+| 1,000-row public sample | 16,546 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 34 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VC One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VC One-Word Domains*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
