@@ -1,10 +1,10 @@
-# Available .VC One-Word Domains (26,964)
+# Available .VC One-Word Domains (14,024)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C964%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C024%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,964 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,024 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,964 domains · **Median ask:** $34.30 · **High-demand under $2,500:** 34
+**Public extract:** 1,000 rows · **Live catalog:** 14,024 domains · **Median ask:** $34.58 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/vc`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aft.vc  | available | $32.98    | $41.98        | low            | low    | 3      | namecheap        |
-| ada.vc  | resell    | —         | —             | medium         | medium | 3      | Edomains LLC     |
-| ann.vc  | available | $41.98    | —             | high           | low    | 3      | namecheap        |
-| gym.vc  | resell    | —         | —             | high           | low    | 3      | Epik LLC         |
-| cxl.vc  | available | $32.98    | $41.98        | low            | low    | 3      | namecheap        |
-| his.vc  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
-| llp.vc  | available | $39       | —             | high           | low    | 3      | name.com         |
-| job.vc  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
-| uml.vc  | available | $39       | —             | high           | low    | 3      | name.com         |
-| law.vc  | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.   |
-| xiv.vc  | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap        |
-| odd.vc  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| ache.vc | available | $32.98    | $41.98        | low            | low    | 4      | namecheap        |
-| sub.vc  | resell    | —         | —             | high           | low    | 3      | Epik LLC         |
-| achy.vc | available | $32.98    | $41.98        | low            | low    | 4      | namecheap        |
-| veg.vc  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC     |
-| ages.vc | available | $39       | —             | medium         | low    | 4      | name.com         |
-| beat.vc | resell    | —         | —             | medium         | low    | 4      | —                |
-| ague.vc | available | $32.98    | $41.98        | low            | low    | 4      | namecheap        |
-| bird.vc | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| aft.vc  | available | $32.98    | $41.98        | medium         | low    | 3      | namecheap      |
+| ada.vc  | resell    | —         | —             | high           | medium | 3      | Edomains LLC   |
+| ann.vc  | available | $41.98    | —             | high           | low    | 3      | namecheap      |
+| ant.vc  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC   |
+| cxl.vc  | available | $32.98    | $41.98        | high           | low    | 3      | namecheap      |
+| ava.vc  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc    |
+| cxv.vc  | available | $32.98    | $41.98        | high           | low    | 3      | namecheap      |
+| gym.vc  | resell    | —         | —             | high           | low    | 3      | Epik LLC       |
+| ill.vc  | available | $39       | —             | high           | low    | 3      | name.com       |
+| his.vc  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC   |
+| llp.vc  | available | $39       | —             | high           | low    | 3      | name.com       |
+| job.vc  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc    |
+| los.vc  | available | $39       | —             | high           | low    | 3      | name.com       |
+| lan.vc  | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC   |
+| tks.vc  | available | $39       | —             | high           | low    | 3      | name.com       |
+| law.vc  | resell    | —         | —             | high           | medium | 3      | Name.com, Inc. |
+| uml.vc  | available | $39       | —             | high           | low    | 3      | name.com       |
+| sob.vc  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc    |
+| ache.vc | available | $32.98    | $41.98        | medium         | low    | 4      | namecheap      |
+| sub.vc  | resell    | —         | —             | high           | low    | 3      | Epik LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,964 live domains                        |
+| 1,000-row public sample | 14,024 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 34 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VC One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VC One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
