@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-1da61d7f-96cb-475b-a581-5bc68e813032,poached.vc,available,32.98,41.98,medium,low,7,namecheap,,,10/08/2026 17:34
-4da55cd6-a188-4ee3-a0a0-3d663f9d2202,unspent.vc,available,32.98,41.98,medium,low,7,namecheap,,,12/09/2026 09:36
+1da61d7f-96cb-475b-a581-5bc68e813032,poached.vc,available,32.98,41.98,high,low,7,namecheap,,,10/08/2026 17:34
+4da55cd6-a188-4ee3-a0a0-3d663f9d2202,unspent.vc,available,32.98,41.98,high,low,7,namecheap,,,12/09/2026 09:36
 e5ab181a-130e-4460-b46a-836c949e5fb9,jejune.vc,available,32.98,41.98,medium,low,6,namecheap,,,22/08/2026 12:45
 802186d1-3825-4c60-ad4b-afdf2a248e32,cocksucker.vc,available,32.98,41.98,medium,low,10,namecheap,,,08/08/2026 23:29
 9525cb59-34fa-4d67-ad78-bb7444502ddb,aec.vc,available,32.98,41.98,high,low,3,namecheap,,,17/09/2026 12:04
@@ -15,7 +15,7 @@ e2ceea03-9ce2-4959-acd5-02c3432d44c3,internets.vc,available,32.98,41.98,medium,l
 263a445b-5a64-428a-a660-f7e0a01872c6,lilting.vc,available,32.98,41.98,high,low,7,namecheap,,,23/08/2026 08:41
 43a77ab7-c0f7-4da9-a27d-4f62717e4306,abm.vc,resell,,,high,low,3,"Sav.com, LLC",26/01/2025 03:36,26/01/2027 03:36,26/09/2026 01:19
 0311d1c4-feeb-47cf-bfe4-4b8ab196520e,musical.vc,available,32.98,41.98,high,low,7,namecheap,,,25/09/2026 19:12
-71fb270e-43ad-45da-b432-c02fa2da8a75,jimmy.vc,resell,,,high,low,5,Porkbun LLC,29/01/2025 21:10,29/01/2027 21:10,26/09/2026 07:00
+71fb270e-43ad-45da-b432-c02fa2da8a75,jimmy.vc,resell,,,high,low,5,Porkbun LLC,29/01/2025 21:10,29/01/2027 21:10,30/09/2026 00:48
 d214f00c-329e-43db-b1fc-e274128fedca,capone.vc,available,27.5,27.5,medium,low,6,dynadot,,,28/09/2026 19:49
 443aeb22-050d-4bd4-86a0-0bcf9e5ca7c0,reviving.vc,available,32.98,41.98,high,low,8,namecheap,,,09/09/2026 14:08
 492e798a-c916-4609-81f7-779842818158,untasted.vc,available,32.98,41.98,low,low,8,namecheap,,,12/09/2026 21:05
@@ -23,26 +23,27 @@ d214f00c-329e-43db-b1fc-e274128fedca,capone.vc,available,27.5,27.5,medium,low,6,
 2d3e1579-d607-4b5c-b899-02552bc73029,undergraduate.vc,available,39,,medium,low,13,name.com,,,
 fc961f48-c306-4b6c-8954-b688e5d4f2b2,cameroon.vc,available,27.5,27.5,high,high,8,dynadot,,,29/09/2026 06:03
 f71a32b9-06f0-4ca6-914e-338c22639cd7,sumbody.vc,available,39,,low,low,7,name.com,,,
-dc41f8a7-eb93-4f96-a24a-3d6717cae974,selfworth.vc,available,39,,high,low,10,name.com,,,
+dc41f8a7-eb93-4f96-a24a-3d6717cae974,selfworth.vc,available,32.98,41.98,high,low,10,namecheap,,,29/09/2026 14:57
 c8d1610a-b2d0-42c5-ae29-a4b6cc65f12a,awning.vc,available,32.98,41.98,high,low,6,namecheap,,,21/09/2026 10:12
 c9a71663-cbef-47b1-9a68-79db60f0b045,bradstreet.vc,available,32.98,41.98,medium,low,10,namecheap,,,19/09/2026 10:16
 32adc865-50cc-4425-81cb-9f0adae2e7ef,french.vc,resell,,,high,low,6,"GoDaddy.com, LLC",17/08/2020 00:05,17/08/2027 00:05,26/09/2026 06:15
 5e77ab89-fd98-4782-9664-6c893fa7d4a3,investigators.vc,available,32.98,41.98,medium,low,13,namecheap,,,29/09/2026 00:00
-8db2a6e3-6dfd-434d-970f-75e2ebf4aa09,etc.vc,resell,,,medium,low,3,"Name.com, Inc.",27/02/2011 00:28,27/02/2027 00:28,26/09/2026 05:54
+8db2a6e3-6dfd-434d-970f-75e2ebf4aa09,etc.vc,resell,,,high,low,3,"Name.com, Inc.",27/02/2011 00:28,27/02/2027 00:28,26/09/2026 05:54
 8ca08ca1-70b8-489c-9047-bac6d8592ff9,humidity.vc,available,27.5,27.5,high,low,8,dynadot,,,29/09/2026 01:18
 708c0d7a-c676-4ad1-8c78-b7f477ba17f2,basso.vc,available,32.98,41.98,high,low,5,namecheap,,,22/09/2026 11:59
 b9ce6d6f-8e7c-4d5a-a48c-e15d42f15346,shakeable.vc,available,32.98,41.98,medium,low,9,namecheap,,,10/09/2026 05:34
+bb592753-efe2-4169-a87b-b7514534b2dd,arabs.vc,available,26.06,26.06,medium,low,5,porkbun,,,29/09/2026 11:16
 465e4ee9-74d1-4bd9-b619-38769100be90,whenever.vc,available,39,,medium,low,8,name.com,,,
 e14fa5b9-12d6-4882-9bcc-a9c1cd87b5fd,bluster.vc,available,32.98,41.98,medium,low,7,namecheap,,,11/08/2026 01:07
 9a7782d3-893e-4378-8e19-3ad3c5c1032a,zenithal.vc,available,32.98,41.98,medium,low,8,namecheap,,,13/09/2026 15:12
 81878167-85cb-467d-a2d2-005e0daf4f8d,proceeds.vc,available,32.98,41.98,high,low,8,namecheap,,,29/09/2026 01:54
 219d2618-acc1-4bec-ad3f-bfd91fb79764,pediatric.vc,available,32.98,41.98,high,low,9,namecheap,,,04/09/2026 22:48
 2ea23891-89f3-491b-9bcf-427dcd747d71,loneliness.vc,available,32.98,41.98,high,low,10,namecheap,,,18/09/2026 13:13
-46dfcd08-01ab-4797-83bb-5c2eb2f1c618,rhapsodic.vc,available,32.98,41.98,medium,low,9,namecheap,,,14/08/2026 23:52
+46dfcd08-01ab-4797-83bb-5c2eb2f1c618,rhapsodic.vc,available,32.98,41.98,high,low,9,namecheap,,,14/08/2026 23:52
 b208eba1-f544-4719-be30-76dfa774a4fb,wilde.vc,available,32.98,41.98,high,low,5,namecheap,,,25/09/2026 09:39
 e66ae7e0-8dd1-4766-b935-17cdfd2d607e,nolan.vc,available,32.98,41.98,high,low,5,namecheap,,,25/09/2026 15:37
 3abeb447-6405-416e-8375-12431d1f06f7,coffeeman.vc,available,39,,high,low,9,name.com,,,
-e9acc8f2-70da-46b7-9931-252ff19023a6,afflicted.vc,available,32.98,41.98,medium,low,9,namecheap,,,
+e9acc8f2-70da-46b7-9931-252ff19023a6,afflicted.vc,available,32.98,41.98,high,low,9,namecheap,,,
 f081de3b-873c-492e-a2e9-3201b27c2783,lineal.vc,available,32.98,41.98,medium,low,6,namecheap,,,23/08/2026 14:16
 e10c73f2-1d36-41e3-b3bb-6c795d5397f7,bradshaw.vc,available,26.06,26.06,high,low,8,porkbun,,,27/09/2026 18:05
 c08f81bb-ddfa-45db-b201-f798640f4325,bifocal.vc,available,32.98,41.98,medium,low,7,namecheap,,,09/08/2026 20:03
@@ -50,15 +51,20 @@ ef8c06a6-56cb-4200-ae38-2784e2d91dcb,influenced.vc,available,39,,high,low,10,nam
 a78ddcbe-efe0-4d5b-955b-e9171d48665c,aglaia.vc,available,39,46.99,medium,low,6,name.com,,,17/09/2026 18:17
 2c61e3c0-fa73-4577-be9f-bcea59ee7f20,furnishing.vc,available,32.98,41.98,high,low,10,namecheap,,,28/09/2026 02:47
 34d9fb2f-159a-4a73-bd4e-3d9f43f28389,shoal.vc,available,32.98,41.98,high,low,5,namecheap,,,10/09/2026 05:46
+bcc78e73-609b-437e-803f-41445b12d16f,circumference.vc,available,27.5,27.5,medium,low,13,dynadot,,,30/09/2026 03:32
+e1993960-cfb9-4b5e-a1a6-5816d51bc6b2,partitioning.vc,available,32.98,41.98,high,low,12,namecheap,,,29/09/2026 09:00
 3c40329f-9d60-473b-ab0c-187479ce2434,correctly.vc,available,32.98,41.98,high,low,9,namecheap,,,13/09/2026 20:47
+270c61e4-7f62-4b3a-a3fb-6ab734b8307f,noticing.vc,available,26.06,26.06,high,low,8,porkbun,,,29/09/2026 08:45
 ed0513b5-055b-4179-bc0a-6c49c9b1184b,greenness.vc,available,32.98,41.98,high,low,9,namecheap,,,20/08/2026 19:45
-0c2a11c2-d2b7-4bbf-9e53-880594139431,ruddy.vc,available,32.98,41.98,medium,low,5,namecheap,,,10/08/2026 14:59
+0c2a11c2-d2b7-4bbf-9e53-880594139431,ruddy.vc,available,32.98,41.98,high,low,5,namecheap,,,10/08/2026 14:59
 bd815562-c644-49e3-bdb5-8ff19fb7134b,rhiannon.vc,available,39,,high,low,8,name.com,,,
 cd44ebca-6ae5-44e7-b1b7-b618e58c88db,statuesque.vc,available,32.98,41.98,medium,low,10,namecheap,,,22/08/2026 14:32
 47e5915c-1941-4d95-8a97-a10ad8e7c3ff,condemned.vc,available,26.06,26.06,medium,low,9,porkbun,,,28/09/2026 17:15
 0a932005-7cb9-4499-9ab8-d79de14f8f6b,cheapjack.vc,available,32.98,41.98,medium,low,9,namecheap,,,12/08/2026 03:25
 4e3a4534-1c2c-46e5-aac8-2b1033d69b2a,beard.vc,resell,,,high,low,5,"GoDaddy.com, LLC",17/08/2020 00:04,17/08/2027 00:04,26/09/2026 04:19
+d7866fa3-63cf-4688-b921-442653bb5c36,hodge.vc,available,27.5,27.5,medium,low,5,dynadot,,,29/09/2026 15:06
 d587e4ea-34e3-4641-912c-f57aacbc22cb,cora.vc,resell,,,high,low,4,,,,28/09/2026 18:45
+f5e81fb6-aee9-4156-bfab-99fff323cde4,warnings.vc,available,27.5,27.5,low,low,8,dynadot,,,29/09/2026 17:44
 815d67c9-0d39-4d1f-af3b-fdee0873a061,starch.vc,available,32.98,41.98,high,low,6,namecheap,,,19/09/2026 00:32
 543bfc89-d5b7-47e9-82e3-96716163f7b5,swash.vc,available,32.98,41.98,medium,low,5,namecheap,,,11/08/2026 01:05
 5b71def7-ee65-4c9b-9544-b1220181d70b,argentine.vc,available,32.98,41.98,high,high,9,namecheap,,,06/08/2026 18:15
@@ -66,6 +72,7 @@ d587e4ea-34e3-4641-912c-f57aacbc22cb,cora.vc,resell,,,high,low,4,,,,28/09/2026 1
 553644e3-8fed-46f1-be30-750d6f70ba7d,obligatory.vc,available,32.98,41.98,medium,low,10,namecheap,,,03/09/2026 23:42
 16a9f485-94df-4ba7-abee-c5ee677e93b0,convolve.vc,available,32.98,41.98,medium,low,8,namecheap,,,13/08/2026 00:01
 0940559c-d86a-4c19-9230-2352b20f147e,owns.vc,available,32.98,41.98,medium,low,4,namecheap,,,18/09/2026 16:37
+b330ee3e-845d-4d0b-972c-03c23150058a,marlow.vc,available,27.5,27.5,high,low,6,dynadot,,,30/09/2026 00:14
 8910934b-82b0-4b62-a99c-0a39465903c0,sloped.vc,available,32.98,41.98,medium,low,6,namecheap,,,07/08/2026 04:26
 f63bb15b-7eb3-47fb-8619-610733132849,unwitting.vc,available,32.98,41.98,medium,low,9,namecheap,,,12/09/2026 14:24
 5a3b9e16-f30e-4801-87d2-99472d9f1ebd,appreciation.vc,available,39,,high,low,12,name.com,,,
@@ -78,7 +85,7 @@ de2ee11f-cf2b-4279-929b-9305265bc6e6,pneumatic.vc,available,32.98,41.98,high,low
 42d3ad15-56b2-4f4e-b6e0-e23ddad5f0b7,mysteries.vc,available,32.98,41.98,high,low,9,namecheap,,,28/09/2026 17:32
 6980af9b-c956-4e16-8100-67cd29670014,prodromal.vc,available,32.98,41.98,medium,low,9,namecheap,,,09/09/2026 02:44
 909c6e6e-1878-45d6-a095-ddc4cdad1688,rollicking.vc,available,32.98,41.98,medium,low,10,namecheap,,,12/08/2026 18:08
-975283d9-fdd2-4584-a297-bab197a0ff1d,customers.vc,available,32.98,41.98,medium,low,9,namecheap,,,25/09/2026 17:13
+975283d9-fdd2-4584-a297-bab197a0ff1d,customers.vc,available,32.98,41.98,high,low,9,namecheap,,,25/09/2026 17:13
 1523f645-3e42-4440-a9f1-d80156c08354,venter.vc,available,32.98,41.98,medium,low,6,namecheap,,,16/09/2026 14:46
 f403b0af-91ef-4d32-b55f-a9e543e4d02f,bonaparte.vc,available,32.98,41.98,medium,low,9,namecheap,,,25/09/2026 00:27
 7a9e7a64-4add-45ff-b737-51e2b485da53,elders.vc,available,27.5,27.5,low,low,6,dynadot,,,28/09/2026 08:45
@@ -98,8 +105,8 @@ c4ffeed8-deb7-4e5b-afa4-7deb1e33a1af,hatless.vc,available,32.98,41.98,medium,low
 a4beef91-fd51-4e41-8862-31721bb24661,girard.vc,available,32.98,41.98,high,low,6,namecheap,,,28/09/2026 05:50
 08ef451a-b1d1-46bc-8015-028153c74449,heavyset.vc,available,32.98,41.98,medium,low,8,namecheap,,,21/08/2026 05:31
 1bc5ee84-6b08-4049-b871-956f97ebcffd,sunshade.vc,available,32.98,41.98,high,low,8,namecheap,,,21/09/2026 10:14
-486c1c5a-22ce-4bc2-957c-5331871e1e75,odour.vc,available,32.98,41.98,medium,low,5,namecheap,,,20/09/2026 08:26
-35976eaa-6c6b-4771-8269-3de52ad84cd2,costumed.vc,available,32.98,41.98,medium,low,8,namecheap,,,13/08/2026 03:18
+486c1c5a-22ce-4bc2-957c-5331871e1e75,odour.vc,available,32.98,41.98,high,low,5,namecheap,,,20/09/2026 08:26
+35976eaa-6c6b-4771-8269-3de52ad84cd2,costumed.vc,available,32.98,41.98,high,low,8,namecheap,,,13/08/2026 03:18
 8debbe75-0381-4464-a7c9-5b0287400345,unfocused.vc,available,32.98,41.98,medium,low,9,namecheap,,,12/09/2026 10:32
 8dc8c29f-e6dc-4632-86c2-e20c15533693,clifford.vc,available,32.98,41.98,high,low,8,namecheap,,,25/09/2026 14:06
 8bd56f5a-9496-414b-8599-8ffc325c119c,prevent.vc,available,39,,high,low,7,name.com,,,
@@ -111,21 +118,22 @@ b706002d-8332-4684-9982-0296b35927c9,phantasm.vc,available,32.98,41.98,high,low,
 2b198cc0-9f54-48d2-8bcc-f14a5dd44092,holloway.vc,available,32.98,41.98,high,low,8,namecheap,,,26/09/2026 03:22
 933ad554-6d3d-4c0f-afeb-4cf24f9c1114,totaled.vc,available,27.5,27.5,medium,low,7,dynadot,,,28/09/2026 09:24
 53d4723d-b38e-442d-9917-2074bed24d25,awarded.vc,available,32.98,41.98,medium,low,7,namecheap,,,29/09/2026 05:30
-1d708f84-9829-4b22-b1af-c596de245a48,fiberoptic.vc,available,32.98,41.98,medium,low,10,namecheap,,,18/08/2026 03:12
+573910dc-d289-4a90-9925-2aecca06c00d,normalization.vc,available,26.06,26.06,medium,low,13,porkbun,,,29/09/2026 09:26
+1d708f84-9829-4b22-b1af-c596de245a48,fiberoptic.vc,available,32.98,41.98,high,low,10,namecheap,,,18/08/2026 03:12
 963c74f6-5283-48d5-b9a1-b508e72229b3,lendable.vc,available,32.98,41.98,medium,low,8,namecheap,,,22/08/2026 23:35
 a936a6bf-f1ac-4d21-aab0-d7ca57cc0531,temporary.vc,available,32.98,41.98,high,low,9,namecheap,,,25/09/2026 07:53
 557160c8-e4d7-4349-ad7f-fb18caef8485,ametria.vc,available,32.98,41.98,medium,low,7,namecheap,,,18/09/2026 21:07
-44a10377-3861-46ba-b7a9-580b66e068ce,absinthe.vc,available,32.98,41.98,medium,low,8,namecheap,,,16/09/2026 17:47
+44a10377-3861-46ba-b7a9-580b66e068ce,absinthe.vc,available,32.98,41.98,high,low,8,namecheap,,,16/09/2026 17:47
 ec6599bc-68bf-400e-939d-243c047c6576,fonts.vc,available,32.98,41.98,medium,low,5,namecheap,,,20/09/2026 22:56
 5986b599-36b8-4468-a4d3-05ab4572c295,huisache.vc,available,32.98,41.98,medium,low,8,namecheap,,,16/09/2026 20:11
 b312a45a-d95c-4e6a-a22c-9addae4b320d,hardheaded.vc,available,32.98,41.98,medium,low,10,namecheap,,,21/08/2026 00:26
-b7c20f05-39a7-4d95-b64b-d3d39bb05d9a,mallard.vc,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 03:01
-d3bebee7-ec5e-4e99-984e-8a52e9ec850c,flawed.vc,available,32.98,41.98,medium,low,6,namecheap,,,18/08/2026 07:18
+b7c20f05-39a7-4d95-b64b-d3d39bb05d9a,mallard.vc,available,32.98,41.98,high,low,7,namecheap,,,19/09/2026 03:01
+d3bebee7-ec5e-4e99-984e-8a52e9ec850c,flawed.vc,available,32.98,41.98,high,low,6,namecheap,,,18/08/2026 07:18
 016b7ddb-6bf7-466a-8440-f202ff8fa698,norwood.vc,available,32.98,41.98,high,low,7,namecheap,,,25/09/2026 16:11
 8e080264-0529-4af3-9654-06ebf26d9d01,aquaphobia.vc,available,32.98,41.98,medium,low,10,namecheap,,,19/09/2026 22:59
 67e46be6-2e74-4fa0-bba6-e777cf42694a,hutton.vc,available,32.98,41.98,high,low,6,namecheap,,,25/09/2026 07:41
 dc61674e-63bf-4bc4-b244-b98f6af2ba8a,frumpy.vc,available,32.98,41.98,medium,low,6,namecheap,,,18/08/2026 17:06
-4fe6e8a8-c36a-4369-953d-cd7c476949d5,lexical.vc,available,32.98,41.98,medium,low,7,namecheap,,,23/08/2026 00:42
+4fe6e8a8-c36a-4369-953d-cd7c476949d5,lexical.vc,available,32.98,41.98,high,low,7,namecheap,,,23/08/2026 00:42
 7d079947-24ad-42d4-9763-98f2a480200f,disquiet.vc,available,32.98,41.98,medium,low,8,namecheap,,,24/09/2026 22:51
 92c239a3-dc88-4137-b035-5a5170608f66,notched.vc,available,32.98,41.98,medium,low,7,namecheap,,,17/08/2026 12:35
 14023777-56bd-4bef-96fc-94be1b4862df,requirements.vc,available,32.98,41.98,medium,low,12,namecheap,,,17/09/2026 10:26
@@ -141,6 +149,8 @@ e7e3db98-2579-40ad-8eae-5085fda70d03,uric.vc,available,32.98,41.98,medium,low,4,
 ac9d356b-7f40-4136-82ce-60173b468a98,treeless.vc,available,32.98,41.98,medium,low,8,namecheap,,,11/09/2026 19:10
 baafecd6-2746-462f-bd7b-1e4825599cf7,digitally.vc,available,32.98,41.98,medium,low,9,namecheap,,,28/09/2026 12:07
 069fb852-647a-4631-a9c8-4adebc62ff95,benzene.vc,available,32.98,41.98,high,low,7,namecheap,,,23/09/2026 08:52
+3e8ce0ba-3a89-424a-baf5-b3af826867e6,elmore.vc,available,26.06,26.06,medium,low,6,porkbun,,,29/09/2026 10:03
+3112a8b0-a83c-44d0-a96c-b80471c28c43,spartanburg.vc,available,32.98,41.98,high,low,11,namecheap,,,29/09/2026 22:45
 2c8953d7-64fc-4f64-9798-9c7d106889e8,fifth.vc,resell,,,high,low,5,Atom.com Domains LLC,17/08/2020 00:14,17/08/2027 00:14,26/09/2026 06:04
 90af5612-997c-4b2b-b32c-b8d2f4fb97de,last.vc,resell,,,high,low,4,Dynadot Inc,10/09/2018 06:24,10/09/2027 06:24,26/09/2026 07:08
 9ca50e04-4bad-429f-975b-2d74e760f456,oaks.vc,resell,,,medium,low,4,"GoDaddy.com, LLC",17/08/2020 00:03,17/08/2027 00:03,26/09/2026 07:51
@@ -151,7 +161,7 @@ e07456ab-98b3-442f-a6f9-3cbea64da0b7,watchfully.vc,available,32.98,41.98,medium,
 77e3fb1d-59cb-4509-8bd6-53d5bf8046ef,battler.vc,available,32.98,41.98,medium,low,7,namecheap,,,09/08/2026 13:32
 bc6f16b0-63c3-4b7d-aa1d-8646c95715fc,milton.vc,available,26.06,26.06,high,low,6,porkbun,,,28/09/2026 10:12
 3f6cacc9-8549-41e0-b3ae-333349c5a099,boiling.vc,available,32.98,41.98,high,low,7,namecheap,,,14/09/2026 00:51
-733373f2-a791-46f4-bd9f-35ab97b4a204,lack.vc,available,32.98,41.98,medium,low,4,namecheap,,,27/09/2026 03:43
+733373f2-a791-46f4-bd9f-35ab97b4a204,lack.vc,available,32.98,41.98,high,low,4,namecheap,,,27/09/2026 03:43
 fc572669-5807-4695-9eed-b6a26910fd02,unmapped.vc,available,32.98,41.98,medium,low,8,namecheap,,,12/08/2026 02:55
 237de9f3-751e-4219-a282-112c4c47bdae,abnaki.vc,available,32.98,41.98,medium,low,6,namecheap,,,
 57370b15-f34b-4ff6-9cbd-1e26126627d1,affined.vc,available,32.98,41.98,medium,low,7,namecheap,,,
@@ -162,9 +172,10 @@ fc572669-5807-4695-9eed-b6a26910fd02,unmapped.vc,available,32.98,41.98,medium,lo
 465e63ae-f90c-4990-9ac1-6218e0d0a24b,baal.vc,available,32.98,41.98,high,low,4,namecheap,,,21/09/2026 12:05
 d027378b-f0d6-488a-8775-0bd50dac6574,searing.vc,available,32.98,41.98,medium,low,7,namecheap,,,10/09/2026 00:54
 7a23f425-9e51-42e5-be9e-97c5fe8689f9,disposal.vc,available,32.98,41.98,high,low,8,namecheap,,,17/09/2026 08:43
-346aab23-3587-4ca7-b83c-fe470ece6304,torture.vc,available,32.98,41.98,medium,low,7,namecheap,,,11/09/2026 18:03
+346aab23-3587-4ca7-b83c-fe470ece6304,torture.vc,available,32.98,41.98,high,low,7,namecheap,,,11/09/2026 18:03
 11b0c7ac-e7d6-447e-859b-e3f3e21af727,varicella.vc,available,32.98,41.98,medium,low,9,namecheap,,,24/09/2026 14:29
 8a65ca4a-4344-4257-b1f8-79f225ece74c,typically.vc,available,27.5,27.5,medium,low,9,dynadot,,,28/09/2026 17:10
+f5e33812-1236-4af4-b713-0446c4da83e1,popping.vc,available,26.06,26.06,high,low,7,porkbun,,,30/09/2026 02:36
 ea0ddbb6-1e83-4003-ad10-f6f17777cffe,superfamily.vc,available,32.98,41.98,medium,low,11,namecheap,,,29/09/2026 02:59
 9632d8f6-3f32-45e9-a766-a2e4556a4b4e,anton.vc,available,32.98,41.98,high,low,5,namecheap,,,25/09/2026 21:48
 0d6a5ffb-facd-4190-a164-d89e038dfb97,farrell.vc,available,32.98,41.98,medium,low,7,namecheap,,,25/09/2026 05:20
@@ -173,26 +184,26 @@ a1fb8efc-7fe8-496e-a756-dda7068d9898,conical.vc,available,32.98,41.98,high,low,7
 cbcaddc9-c409-4aac-a4b7-43400e783d4d,jocose.vc,available,32.98,41.98,medium,low,6,namecheap,,,22/08/2026 12:54
 726f2961-e139-4e95-8498-dfaf731f187a,westchester.vc,available,32.98,41.98,medium,low,11,namecheap,,,27/09/2026 01:58
 d64c49c5-d4fd-4aa0-9465-4c258a21455f,instructions.vc,available,39,46.99,high,low,12,name.com,,,25/09/2026 16:47
-72e928dc-9002-47ac-b26c-b97b70e00a2f,clap.vc,resell,,,high,low,4,"GoDaddy.com, LLC",23/10/2022 20:07,23/10/2027 20:07,26/09/2026 04:57
+72e928dc-9002-47ac-b26c-b97b70e00a2f,clap.vc,resell,,,high,low,4,"GoDaddy.com, LLC",23/10/2022 20:07,23/10/2027 20:07,29/09/2026 09:38
 e414abec-4f43-449a-a188-7986c967e75f,truncheon.vc,available,32.98,41.98,medium,low,9,namecheap,,,23/09/2026 16:38
 ee8ff918-5b12-4825-83c9-8ff2d03e2833,spirits.vc,available,27.5,27.5,high,low,7,dynadot,,,29/09/2026 03:40
 e500719d-e36c-46d2-a27b-e3e586408b09,regain.vc,available,32.98,41.98,high,low,6,namecheap,,,29/09/2026 02:45
 f6888dab-00f7-493a-9231-51a0c8cedde4,durable.vc,resell,,,high,low,7,Porkbun LLC,30/01/2025 01:52,30/01/2027 01:52,26/09/2026 05:43
 719e1f8d-2399-4deb-8eeb-c7d361eb0e2e,shepard.vc,available,32.98,41.98,high,low,7,namecheap,,,18/09/2026 01:40
-d067cda9-2051-49a9-9ca1-0a6c69eee18b,pimento.vc,available,39,46.99,medium,low,7,name.com,,,23/09/2026 05:37
+d067cda9-2051-49a9-9ca1-0a6c69eee18b,pimento.vc,available,39,46.99,high,low,7,name.com,,,23/09/2026 05:37
 0bac62d1-e468-42f0-b230-7818d9699ce8,renewing.vc,available,32.98,41.98,high,low,8,namecheap,,,09/09/2026 14:06
 ba8e411c-b336-4c68-9a40-e0c2755d751b,armory.vc,resell,,,high,low,6,Dynadot Inc,02/02/2022 16:19,02/02/2027 16:19,26/09/2026 04:01
 aadde265-0be5-42f5-a497-2dfaa229fd32,bawd.vc,available,39,46.99,medium,low,4,name.com,,,13/08/2026 14:22
 b5f02a3d-1f30-44fc-9717-6feb705f8b57,swoon.vc,available,32.98,41.98,high,low,5,namecheap,,,17/08/2026 21:03
 ff8c57ee-36e7-4082-aebb-f1929bdee5a3,artificer.vc,available,32.98,41.98,high,low,9,namecheap,,,20/09/2026 11:38
 63b1e7ad-8b35-48b1-a2cf-c23cfc72d5b8,barnyard.vc,available,32.98,41.98,high,low,8,namecheap,,,22/09/2026 06:58
-938b2fa1-67ba-4462-a59e-af231493d467,feeling.vc,available,39,,high,low,7,name.com,,,
+938b2fa1-67ba-4462-a59e-af231493d467,feeling.vc,available,32.98,41.98,high,low,7,namecheap,,,29/09/2026 19:08
 2cd5d903-e76d-4216-ac04-e22ac0bb79e4,abbot.vc,available,32.98,41.98,medium,low,5,namecheap,,,16/09/2026 14:31
 458e6db2-ec3b-473f-a5ff-127985c475c9,orphaned.vc,available,32.98,41.98,medium,low,8,namecheap,,,04/09/2026 18:01
 c4fc0a19-2ce0-4c00-8a7d-38ca11b797bb,retch.vc,available,32.98,41.98,high,medium,5,namecheap,,,10/09/2026 07:37
 9e673bea-77c0-4eb6-99ad-8ac5920ee181,practised.vc,available,32.98,41.98,high,medium,9,namecheap,,,09/09/2026 00:57
 9c263cf4-3ea1-4158-b8a1-3bca5831501a,graciously.vc,available,32.98,41.98,high,low,10,namecheap,,,14/09/2026 21:58
-ac9e7460-8adc-46de-83b2-6a42a1865bb2,alfresco.vc,available,32.98,41.98,medium,low,8,namecheap,,,
+ac9e7460-8adc-46de-83b2-6a42a1865bb2,alfresco.vc,available,32.98,41.98,high,low,8,namecheap,,,
 7ca063c0-656f-4247-bfc5-6ee29a7d5fe3,choosey.vc,available,32.98,41.98,medium,low,7,namecheap,,,12/08/2026 06:55
 ce0ace23-ed07-4439-ad44-ab694ab251e1,starkers.vc,available,32.98,41.98,low,low,8,namecheap,,,10/09/2026 18:51
 ef1023a8-001e-4a58-9403-796fa2fa2262,menacing.vc,available,32.98,41.98,medium,low,8,namecheap,,,24/08/2026 19:55
@@ -202,7 +213,7 @@ f4794a7b-b66f-4396-8119-1d54e8a1ff0b,chiang.vc,available,32.98,41.98,medium,low,
 bbd0982d-1142-4e1e-a2bd-9c1873820c12,pubescent.vc,available,32.98,41.98,high,low,9,namecheap,,,09/09/2026 05:15
 eaa7abb7-bc77-4c94-9f5f-ab345f78ba56,eligible.vc,available,32.98,41.98,high,low,8,namecheap,,,16/08/2026 04:35
 4d0ab386-0682-4562-94f9-fe11bcd4d4c8,dexter.vc,resell,,,high,low,6,"GoDaddy.com, LLC",22/12/2023 20:10,22/12/2027 20:10,26/09/2026 05:32
-c2032063-07e4-4fc2-9738-20a502a9d0ac,ecological.vc,available,32.98,41.98,high,low,10,namecheap,,,22/09/2026 21:01
+c2032063-07e4-4fc2-9738-20a502a9d0ac,ecological.vc,available,27.5,27.5,high,low,10,dynadot,,,29/09/2026 21:02
 94de183d-24ea-4248-8e84-611307e5020c,anglican.vc,available,32.98,41.98,high,low,8,namecheap,,,
 86a0041d-e7c0-4398-a5a0-9bef70ae2427,rent.vc,resell,,,high,low,4,Porkbun LLC,23/07/2020 17:28,23/07/2027 17:28,26/09/2026 08:36
 7890a792-423c-4267-b33b-74f2d6997361,prodigally.vc,available,32.98,41.98,low,low,10,namecheap,,,15/09/2026 21:38
@@ -212,10 +223,11 @@ ce00fab1-069e-4397-9132-a95780d7a1e1,meridian.vc,resell,,,high,medium,8,Dynadot 
 f356b88b-d6fc-41fb-aac1-f0c89a45c0e4,prototypes.vc,available,26.06,26.06,medium,low,10,porkbun,,,28/09/2026 06:46
 6016f020-e5be-4809-b9b5-85a7c19e7782,clausal.vc,available,32.98,41.98,medium,low,7,namecheap,,,12/08/2026 10:00
 8906ef5b-b778-4fa9-855b-1f85e38a3602,democratic.vc,available,32.98,41.98,high,low,10,namecheap,,,24/09/2026 05:46
-ff75a7c2-1ccd-4d1b-b413-aef6b3485582,cubitus.vc,available,32.98,41.98,medium,low,7,namecheap,,,20/09/2026 11:25
+ff75a7c2-1ccd-4d1b-b413-aef6b3485582,cubitus.vc,available,32.98,41.98,high,low,7,namecheap,,,20/09/2026 11:25
 f850c4d5-11e3-4257-8458-c9cfa3abf5b5,rgb.vc,resell,,,high,low,3,www.Names.plus,02/03/2026 05:13,02/03/2027 05:13,26/09/2026 08:40
+c94e6135-96fd-49da-a736-3fcd26359403,kneeling.vc,available,32.98,41.98,high,low,8,namecheap,,,29/09/2026 19:28
 8dfd5ea8-3f94-4eea-8fd6-8012b6c1e678,unemployment.vc,available,39,,high,low,12,name.com,,,
-38fcbe37-2f9e-4315-a9a9-4f846eada652,clumsy.vc,available,32.98,41.98,medium,low,6,namecheap,,,23/09/2026 11:20
+38fcbe37-2f9e-4315-a9a9-4f846eada652,clumsy.vc,available,32.98,41.98,high,low,6,namecheap,,,23/09/2026 11:20
 2f92f98e-b580-4cd4-81bf-e701aba184d5,nervously.vc,available,32.98,41.98,medium,low,9,namecheap,,,15/09/2026 16:28
 394d2c2c-31f8-4869-a62f-0d130e36979a,consist.vc,available,39,,high,low,7,name.com,,,
 68a78b1a-c890-4582-b747-6497fd20004f,loeb.vc,available,49.99,49.99,high,low,4,Gandi SAS,07/03/2019 17:32,07/03/2027 17:32,28/09/2026 02:11
@@ -224,9 +236,10 @@ dfc8d562-bbd4-49fa-b8cd-19390a9194ef,tense.vc,available,32.98,41.98,high,low,5,n
 fa5acb1b-456f-4428-9e03-be089943114c,promoted.vc,available,32.98,41.98,medium,low,8,namecheap,,,28/09/2026 08:15
 5df185e9-3ba5-49f1-a14e-fc171356ec17,landon.vc,available,26.06,26.06,medium,low,6,porkbun,,,28/09/2026 22:03
 a41022ad-7664-498c-9375-d6a4439c8bc9,mistakes.vc,available,39,46.99,medium,low,8,name.com,,,16/09/2026 10:20
+2e29316c-ace6-4aab-b19d-a90ee6ac47c4,germany.vc,resell,,,high,high,7,,,,29/09/2026 14:29
 a8834baf-fc9b-4a46-96c5-7f62d6ab6505,affecting.vc,available,32.98,41.98,high,low,9,namecheap,,,
 c87e4f0c-b737-4b22-961f-40a3461da158,indistinct.vc,available,32.98,41.98,medium,low,10,namecheap,,,22/08/2026 03:14
-6645910d-a087-4646-96e8-5056ca6805ef,limitation.vc,available,39,,medium,low,10,name.com,,,
+6645910d-a087-4646-96e8-5056ca6805ef,limitation.vc,available,32.98,41.98,medium,low,10,namecheap,,,30/09/2026 03:01
 aa62b902-fe95-468c-9e4e-710b7e6b619c,grudging.vc,available,32.98,41.98,medium,low,8,namecheap,,,20/08/2026 20:31
 bfd67930-8670-4173-bc5f-5d492e0e71d2,almandine.vc,available,32.98,41.98,medium,low,9,namecheap,,,18/09/2026 12:29
 707f9c1d-b0e7-4c4e-90ba-bcbe040ad9e5,batrachian.vc,available,32.98,41.98,medium,low,10,namecheap,,,05/08/2026 20:53
@@ -235,21 +248,24 @@ dd074f59-b03a-4214-a50d-fe03f22a25f6,parented.vc,available,32.98,41.98,high,low,
 f4910f3c-641e-4ceb-8dbd-4d21ce581419,abelard.vc,available,32.98,41.98,medium,low,7,namecheap,,,16/09/2026 14:59
 b6317a81-3380-472c-a3ef-49c6922a1e47,downfall.vc,available,32.98,41.98,medium,low,8,namecheap,,,24/09/2026 23:39
 818b6789-eece-4987-a61a-9a20ecf288ab,ambient.vc,resell,,,high,low,7,Dynadot Inc,28/07/2020 19:09,28/07/2027 19:09,26/09/2026 03:50
-5c928716-ea0e-4706-b71f-ccd5c31eb03b,diving.vc,available,39,,high,low,6,name.com,,,
+5c928716-ea0e-4706-b71f-ccd5c31eb03b,diving.vc,available,27.5,27.5,high,low,6,dynadot,,,29/09/2026 16:25
 5106ff91-1190-4109-a123-05e230154739,awny.vc,available,32.98,41.98,medium,low,4,namecheap,,,08/08/2026 01:25
 c36c7dcd-d759-47f7-a2f6-cf844d31b0ba,created.vc,available,32.98,41.98,high,low,7,namecheap,,,25/09/2026 09:10
 9a89a08e-617e-4e61-8ff8-7632eb0b12ac,coaches.vc,available,32.98,41.98,medium,low,7,namecheap,,,20/09/2026 07:46
 dbaa7979-3c93-4804-9e6b-28a28c0185fd,unpleasant.vc,available,32.98,41.98,medium,low,10,namecheap,,,12/09/2026 16:58
 a495aba3-671d-4adb-beff-ea35a288ad84,colour.vc,available,32.98,41.98,high,low,6,namecheap,,,24/09/2026 15:02
-c5c39f6a-3cb3-44b0-996d-577ef1d43b6c,headed.vc,available,32.98,41.98,medium,low,6,namecheap,,,21/08/2026 01:51
+2e64ea64-3e82-4b79-859b-d989fdce4066,originated.vc,available,26.06,26.06,medium,low,10,porkbun,,,29/09/2026 23:39
+c5c39f6a-3cb3-44b0-996d-577ef1d43b6c,headed.vc,available,32.98,41.98,high,low,6,namecheap,,,21/08/2026 01:51
 03040e0d-4f3d-4226-9b01-785ec4a43c79,flour.vc,available,32.98,41.98,high,low,5,namecheap,,,28/09/2026 14:13
 fa37f7ea-dcc9-4231-b0d3-8e957d14c066,worthwhile.vc,available,32.98,41.98,high,low,10,namecheap,,,28/09/2026 11:04
 eacf8566-2e69-40a9-a0e1-02de1451c1ba,infrasonic.vc,available,32.98,41.98,medium,low,10,namecheap,,,22/08/2026 04:48
 4525e2a7-408e-43f8-89ca-fdf4bed2931b,arthropoda.vc,available,32.98,41.98,high,low,10,namecheap,,,20/09/2026 10:41
 a2daeb45-9844-43e4-96b2-d269cfe99710,nobility.vc,available,32.98,41.98,high,low,8,namecheap,,,20/09/2026 05:50
+44eb0138-2dbc-4a09-b709-37472e5486e0,chartres.vc,available,32.98,41.98,medium,low,8,namecheap,,,29/09/2026 11:53
 d33bdef4-35c1-4147-9ebf-981b23748c84,bakshish.vc,available,32.98,41.98,medium,low,8,namecheap,,,21/09/2026 15:53
 63e50a3e-16a0-454a-ab35-76e95239b4d7,baggage.vc,available,26.06,26.06,high,low,7,porkbun,,,29/09/2026 00:29
 57fb360e-ae04-40a6-b882-53201e9ee4bd,oppenheimer.vc,available,32.98,41.98,medium,low,11,namecheap,,,28/09/2026 21:40
+f45e6253-2db0-4507-9bfc-882feea4ae0c,versions.vc,available,27.5,27.5,medium,low,8,dynadot,,,30/09/2026 00:17
 ceec61a3-bad3-4f52-a903-bc1add8552d6,unfaithful.vc,available,32.98,41.98,medium,low,10,namecheap,,,17/08/2026 21:18
 3d978bab-4664-405a-99ab-0c4a25cb1092,airfoil.vc,available,32.98,41.98,medium,low,7,namecheap,,,17/09/2026 12:59
 48698694-ed56-45c1-a4fb-9167cd135cf2,howling.vc,available,32.98,41.98,high,low,7,namecheap,,,21/08/2026 14:24
@@ -258,13 +274,16 @@ d0bc6cb9-0348-49cb-80a0-9ee2b998508f,lactating.vc,available,32.98,41.98,medium,l
 f6b08dbb-d4fe-4b74-9cc9-ace73f16bc37,fittest.vc,available,32.98,41.98,medium,low,7,namecheap,,,18/09/2026 04:12
 fee7b340-30d7-43ec-a3c6-54ecab8ce771,cubistic.vc,available,32.98,41.98,medium,low,8,namecheap,,,13/08/2026 10:05
 56e194d4-95e7-49a7-9cea-12fd3f26d647,installation.vc,available,27.5,27.5,high,low,12,dynadot,,,29/09/2026 04:43
-f3d867c9-eeb5-48b9-a706-7a4a6e2c2c40,dorothy.vc,available,32.98,41.98,medium,low,7,namecheap,,,25/09/2026 14:18
+f3d867c9-eeb5-48b9-a706-7a4a6e2c2c40,dorothy.vc,available,32.98,41.98,high,low,7,namecheap,,,25/09/2026 14:18
 fb4804b2-4df2-4097-93ed-4a98fc936902,grocery.vc,available,32.98,41.98,high,low,7,namecheap,,,08/09/2026 13:48
 52164dbb-e736-4057-becf-408045b245b1,cruel.vc,available,32.98,41.98,high,low,5,namecheap,,,22/09/2026 17:21
+adcd29b2-41ad-43ff-a5b0-a7cc22d9c7de,complimentary.vc,resell,,,medium,low,13,,,,30/09/2026 04:02
 73977754-a8e4-4f90-8698-b65562fedbce,morley.vc,available,32.98,41.98,high,low,6,namecheap,,,25/09/2026 05:08
+c2cb57d8-548b-4568-9038-35e2b002dccd,madeleine.vc,available,32.98,41.98,high,low,9,namecheap,,,29/09/2026 14:18
 faa5abec-7e16-4e77-a2a3-1debed63d06c,consummate.vc,available,32.98,41.98,high,low,10,namecheap,,,23/09/2026 21:29
 9d2833ae-2485-4e03-956c-ea684873238b,desires.vc,available,32.98,41.98,high,low,7,namecheap,,,17/09/2026 08:40
 41f1b65d-56b6-4323-9bc8-606a007febea,ingress.vc,available,32.98,41.98,medium,low,7,namecheap,,,22/08/2026 01:52
+a2f6ecc8-c19c-4cbc-a33c-235397d7846c,inconclusive.vc,available,32.98,41.98,medium,low,12,namecheap,,,30/09/2026 04:07
 1ae8e3a7-57e8-420b-bb0e-f25ae7592382,compactly.vc,available,32.98,41.98,medium,low,9,namecheap,,,14/09/2026 07:35
 a3961d85-b87b-4958-800f-1704aa0f4671,monument.vc,resell,,,high,low,8,,,,28/09/2026 14:54
 53a54f3b-c539-48d0-8711-f239cc05e4ee,airway.vc,available,32.98,41.98,high,low,6,namecheap,,,17/09/2026 22:13
@@ -287,7 +306,7 @@ a082b110-1465-4bdb-8c51-304d35a26260,inimitable.vc,available,32.98,41.98,high,lo
 ff462a44-ee7b-4b7d-b30b-c40f2d068997,crinkly.vc,available,32.98,41.98,medium,low,7,namecheap,,,13/08/2026 06:51
 b3a451d3-cf5f-4231-b35f-f2e3caabda56,pretorial.vc,available,32.98,41.98,high,medium,9,namecheap,,,09/09/2026 01:02
 574bc06e-1131-45d2-801a-bc32a2f4249d,flemish.vc,available,32.98,41.98,high,low,7,namecheap,,,18/08/2026 07:56
-3c3c4cf3-fade-4cfa-a450-c9382bf0456a,dispute.vc,available,32.98,41.98,medium,low,7,namecheap,,,28/09/2026 13:42
+3c3c4cf3-fade-4cfa-a450-c9382bf0456a,dispute.vc,available,32.98,41.98,high,low,7,namecheap,,,28/09/2026 13:42
 982271a4-3181-484a-9ead-037162493a6c,braky.vc,available,32.98,41.98,low,low,5,namecheap,,,11/08/2026 01:57
 a87416ee-e042-494a-8e51-caa8a736c06a,riffle.vc,available,32.98,41.98,medium,low,6,namecheap,,,12/09/2026 08:36
 d6287321-45e9-4f79-815a-c5c0529e08d9,spell.vc,resell,,,high,low,5,Dynadot Inc,17/08/2020 22:16,17/08/2027 22:16,26/09/2026 09:12
@@ -296,26 +315,27 @@ d6287321-45e9-4f79-815a-c5c0529e08d9,spell.vc,resell,,,high,low,5,Dynadot Inc,17
 f1c33074-d3ba-4858-9c1d-461c55d50a79,expectant.vc,available,32.98,41.98,high,low,9,namecheap,,,22/09/2026 06:48
 91a81e6c-bc4d-45c3-863d-d5e398cf8042,untangled.vc,available,32.98,41.98,medium,low,9,namecheap,,,12/09/2026 20:57
 09662b9a-da60-46d0-aa9c-706ca3dfeac8,gaffer.vc,available,32.98,41.98,medium,low,6,namecheap,,,
-ba838366-56f7-426d-af28-72aca37a3ca1,barnum.vc,available,32.98,41.98,medium,low,6,namecheap,,,22/09/2026 06:55
+ba838366-56f7-426d-af28-72aca37a3ca1,barnum.vc,available,32.98,41.98,high,low,6,namecheap,,,22/09/2026 06:55
 795d4f9f-db0e-4add-9de3-8f84b32a0537,jackie.vc,available,32.98,41.98,high,low,6,namecheap,,,25/09/2026 13:22
 64964e87-ebad-41d0-aead-579b18fa7e48,ostracize.vc,available,32.98,41.98,medium,low,9,namecheap,,,24/09/2026 01:58
 b47f7599-e977-4602-80d6-9e4f6db6ba37,proficient.vc,resell,,,high,low,10,"GoDaddy.com, LLC",17/08/2020 00:04,17/08/2027 00:04,26/09/2026 08:21
+8cc250b4-7089-42bf-9c8d-1e5d65da40b3,dollar.vc,resell,,,high,low,6,,,,29/09/2026 16:27
 e8cd3f4f-afda-4b0e-a1cf-c4d321bf2fb7,celibate.vc,available,32.98,41.98,high,low,8,namecheap,,,11/08/2026 23:25
 29f3e6c9-704a-494e-95f6-2cc2a22cbb47,firefighter.vc,available,39,,high,low,11,name.com,,,
-e759f348-191c-4393-a79a-d752995b2d39,tasking.vc,available,39,,medium,low,7,name.com,,,
+e759f348-191c-4393-a79a-d752995b2d39,tasking.vc,available,39,,high,low,7,name.com,,,
 7c9d7a8d-a92f-4741-8d07-5e83345728de,tends.vc,available,32.98,41.98,medium,low,5,namecheap,,,29/09/2026 04:58
 c331d03f-e4d6-43f5-9c8e-ba1c79ecfbe1,lashings.vc,available,32.98,41.98,high,low,8,namecheap,,,14/09/2026 23:38
 4a7e58d2-542e-4a58-8f0b-14483dbc8e2a,islets.vc,available,32.98,41.98,medium,low,6,namecheap,,,29/09/2026 00:10
 8b8f4ad9-41a5-4f82-9690-e7109df30b6b,fuss.vc,available,32.98,41.98,high,low,4,namecheap,,,17/09/2026 09:21
 77a6c5a8-2f2c-48f9-bee7-d085e0a87092,banshie.vc,available,32.98,41.98,medium,low,7,namecheap,,,22/09/2026 03:10
-d7a7dc3f-5bf1-4ef0-8c11-30a5aefe6ab8,shaggy.vc,available,32.98,41.98,medium,low,6,namecheap,,,11/08/2026 11:17
+d7a7dc3f-5bf1-4ef0-8c11-30a5aefe6ab8,shaggy.vc,available,32.98,41.98,high,low,6,namecheap,,,11/08/2026 11:17
 166dd9d6-9870-432f-a592-ebb3e885dae8,alchemical.vc,available,32.98,41.98,medium,low,10,namecheap,,,
 584b4002-faab-4ff6-87b7-8615977a7eea,fugacious.vc,available,32.98,41.98,medium,low,9,namecheap,,,17/08/2026 10:20
 043d6ca6-1f0f-448a-8087-3bf981c4bbf5,lana.vc,resell,,,high,low,4,,,,29/09/2026 04:18
 1bf04545-f0f7-45d2-bfff-e8ff57b94aba,nose.vc,available,39,,high,low,4,name.com,,,
 235bf6a1-bd87-4232-8722-e5639a2593b4,canola.vc,available,39,46.99,high,low,6,name.com,,,24/09/2026 12:06
 d75d3b10-24bf-45d8-b274-6554dceac6ba,planate.vc,available,32.98,41.98,medium,low,7,namecheap,,,18/08/2026 06:53
-77f6bb7e-c5ca-4225-ba3f-3b54110806cf,mined.vc,available,32.98,41.98,medium,low,5,namecheap,,,24/08/2026 23:40
+77f6bb7e-c5ca-4225-ba3f-3b54110806cf,mined.vc,available,32.98,41.98,high,low,5,namecheap,,,24/08/2026 23:40
 bf9df683-5e01-41b8-a255-64756201cc02,terrorists.vc,available,32.98,41.98,low,low,10,namecheap,,,27/09/2026 03:16
 34d8b2f9-5b1a-4d93-a8c0-cdb99877d2bf,hereabouts.vc,available,32.98,41.98,medium,low,10,namecheap,,,15/09/2026 00:20
 8f8565e2-8954-4a86-8f88-ba324cd6481e,hollyhock.vc,available,32.98,41.98,medium,low,9,namecheap,,,18/09/2026 14:54
@@ -325,6 +345,7 @@ bac64dd8-bb72-4be6-b7f6-9c0acb969a2e,agonist.vc,available,32.98,41.98,medium,low
 4716423f-d3fc-4464-8f07-deb98cebe3f0,aneroid.vc,available,32.98,41.98,medium,low,7,namecheap,,,
 b02a7cf1-e0bc-47a8-990a-7e495652a9a4,fixing.vc,available,32.98,41.98,high,low,6,namecheap,,,18/09/2026 14:47
 50777377-7049-4074-b771-634f42091dc7,avoid.vc,available,32.98,41.98,high,low,5,namecheap,,,13/09/2026 06:44
+31986590-dc23-4b51-b9df-30ce4c491e46,digestion.vc,available,49.99,49.99,high,low,9,godaddy,,,30/09/2026 01:19
 b5a1b772-6da0-44c2-80fe-9faa1571f29f,asteroidea.vc,available,32.98,41.98,medium,low,10,namecheap,,,20/09/2026 17:14
 ae8ad2ba-c765-4aaf-a280-681d0d842ca2,carmelite.vc,available,32.98,41.98,medium,low,9,namecheap,,,11/08/2026 19:22
 aeee5688-061d-461b-87c2-b90cf251859b,rubble.vc,available,32.98,41.98,medium,low,6,namecheap,,,28/09/2026 18:54
@@ -332,7 +353,7 @@ c5d14542-ef11-4a2a-acf8-086fca4c4e57,dad.vc,resell,,,high,low,3,Dynadot Inc,15/0
 2d939d66-2b3e-4a99-a6eb-c8f01c1727a1,biomedical.vc,available,32.98,41.98,high,low,10,namecheap,,,10/08/2026 02:15
 af017a55-497e-4ed6-8686-7fa7477fdb76,relaxed.vc,available,32.98,41.98,high,low,7,namecheap,,,09/09/2026 13:24
 3b622593-65f5-4cdc-9a83-9b6fb43a2611,odds.vc,resell,,,high,low,4,"Sav.com, LLC",24/04/2024 09:51,24/04/2027 09:51,26/09/2026 07:51
-4d51b51c-2b22-4deb-a065-305ed2940619,acquiesce.vc,available,32.98,41.98,medium,low,9,namecheap,,,20/09/2026 16:11
+4d51b51c-2b22-4deb-a065-305ed2940619,acquiesce.vc,available,32.98,41.98,high,low,9,namecheap,,,20/09/2026 16:11
 543f6dee-54fb-4c16-9b47-8b18cfa88ffa,capricious.vc,available,32.98,41.98,medium,low,10,namecheap,,,11/08/2026 18:04
 394130b8-43ac-480a-b685-17b4e8412653,alopecia.vc,available,32.98,41.98,medium,low,8,namecheap,,,18/09/2026 13:18
 2a2b67b9-8318-4e1b-9439-e0e11d1ec593,adventurer.vc,available,32.98,41.98,high,low,10,namecheap,,,17/09/2026 10:41
@@ -343,11 +364,13 @@ da4be1a3-390a-4c33-9cbc-51a82199647a,barren.vc,available,32.98,41.98,medium,low,
 057fe0de-ed3c-43a5-bb9a-dbf497645a89,picked.vc,available,39,,high,low,6,name.com,,,
 6d214f15-03dc-4cb6-bf18-839e6ba31f56,zama.vc,available,32.98,41.98,medium,low,4,namecheap,,,22/09/2026 16:21
 1cff4c72-a022-42b1-b7e5-c8a13ba9782f,purpleness.vc,available,32.98,41.98,high,medium,10,namecheap,,,09/09/2026 06:23
-92bd1257-2335-4e9e-978c-3cde277a2ff9,dislike.vc,available,39,,high,low,7,name.com,,,
+92bd1257-2335-4e9e-978c-3cde277a2ff9,dislike.vc,available,32.98,41.98,high,low,7,namecheap,,,29/09/2026 15:55
 a75854ad-816e-44e1-b283-d62b95e79c8f,eliminated.vc,available,32.98,41.98,medium,low,10,namecheap,,,28/09/2026 17:04
 2e44cc51-4cb3-44e8-912a-affbcdbe53a0,tidy.vc,resell,,,high,low,4,Porkbun LLC,19/12/2021 22:14,19/12/2026 22:14,26/09/2026 09:37
 3d8e27d3-beb5-4671-a68d-8dfeb5c1ba00,unbeknown.vc,available,32.98,41.98,medium,low,9,namecheap,,,12/09/2026 01:47
 1d3fbcc4-db87-4d46-9a00-ac0e4bcddac1,alacrity.vc,available,32.98,41.98,high,low,8,namecheap,,,18/09/2026 01:37
+fd44d072-0cee-441c-af73-bfa5f0ee3977,vinson.vc,available,27.5,27.5,medium,low,6,dynadot,,,29/09/2026 12:24
+569df947-2627-471a-b24e-5286cc88ed58,kearny.vc,available,26.06,26.06,medium,low,6,porkbun,,,29/09/2026 22:45
 001722a0-f7fa-4c50-ae0d-f892ff9d4eee,taught.vc,available,32.98,41.98,medium,low,6,namecheap,,,27/09/2026 02:04
 3beaf680-22ed-4101-80bb-c57d1d33fb30,barrow.vc,available,32.98,41.98,medium,low,6,namecheap,,,22/09/2026 08:41
 476a4528-c165-4d6b-b956-bdaa34662c04,suppliant.vc,available,32.98,41.98,medium,low,9,namecheap,,,11/09/2026 02:30
@@ -364,22 +387,26 @@ ed107c1b-356b-4fc7-81bd-2a10f82caaa9,rummy.vc,available,32.98,41.98,high,low,5,n
 ea2ea450-305c-4e29-8f3a-5927da77c946,carefree.vc,available,32.98,41.98,high,medium,8,namecheap,,,11/08/2026 19:01
 13e7180e-7a61-44e3-b4bc-7f5d9ade0474,solved.vc,available,32.98,41.98,high,low,6,namecheap,,,10/09/2026 13:46
 7775122f-6b07-4d02-98ac-d2d90d711109,catherine.vc,available,32.98,41.98,high,low,9,namecheap,,,25/09/2026 04:07
-f4d6c5a2-c989-4ae5-8961-2757e32814a4,shin.vc,available,39,,high,low,4,name.com,,,
 8c1bff99-d725-4121-8d12-d96040f4a1f0,rattled.vc,available,32.98,41.98,medium,low,7,namecheap,,,18/08/2026 09:33
 ba43cf93-9c08-4d3a-a0f7-57491511e41a,hdl.vc,available,32.98,41.98,high,low,3,namecheap,,,18/09/2026 13:33
 beba9caa-a703-42f8-af98-c93f6bfe4006,edental.vc,available,32.98,41.98,medium,low,7,namecheap,,,08/09/2026 15:42
 27105751-f9b0-49ef-a549-44775ac4a5d1,qualifier.vc,available,39,,high,low,9,name.com,,,
+0d3da294-db8d-4aad-9895-5287cea4d322,allegations.vc,available,27.5,27.5,medium,low,11,dynadot,,,29/09/2026 11:36
 bd9a9f52-9e66-4097-b5d5-68e995084e89,bipartisan.vc,available,32.98,41.98,high,low,10,namecheap,,,10/08/2026 04:32
-b3946768-f698-459a-9366-bfc04b22a525,formalized.vc,available,32.98,41.98,medium,low,10,namecheap,,,18/08/2026 12:03
+b3946768-f698-459a-9366-bfc04b22a525,formalized.vc,available,32.98,41.98,high,low,10,namecheap,,,18/08/2026 12:03
 c9623068-b915-4231-94d4-d422816f03bb,dopy.vc,available,32.98,41.98,low,low,4,namecheap,,,14/08/2026 16:02
 4889df86-4ff0-4edb-9130-68a0d0a63274,chanting.vc,available,27.5,27.5,high,low,8,dynadot,,,28/09/2026 18:40
-f25ec521-af5d-4d2a-83ee-758d1d3b0a8a,mailed.vc,available,32.98,41.98,medium,low,6,namecheap,,,24/08/2026 13:18
+f49edca4-6d9b-4ece-9857-478cfae2e12a,goddard.vc,available,27.5,27.5,medium,low,7,dynadot,,,30/09/2026 01:46
+f25ec521-af5d-4d2a-83ee-758d1d3b0a8a,mailed.vc,available,32.98,41.98,high,low,6,namecheap,,,24/08/2026 13:18
 7558d44c-aaab-44d7-9f63-bd8ab98245b6,ards.vc,available,32.98,41.98,medium,low,4,namecheap,,,17/09/2026 10:14
 cbd51b1c-d3d1-4166-a9b7-850b5c86208c,worried.vc,available,32.98,41.98,high,low,7,namecheap,,,24/09/2026 11:23
 205cc209-de5b-49ae-b162-d4e5af0b932d,straining.vc,available,32.98,41.98,medium,low,9,namecheap,,,10/09/2026 21:43
+14f3a156-7472-474c-a8f9-15bde461c116,schmid.vc,available,32.98,41.98,high,low,6,namecheap,,,29/09/2026 15:01
 e06bb4d8-0567-4ad3-9cf2-d76723b013dd,cheese.vc,resell,,,high,low,6,Dynadot Inc,23/07/2020 16:59,23/07/2027 16:59,28/09/2026 12:55
 e8d3779d-5a92-42f9-8c74-657b73c5dc46,reassured.vc,available,32.98,41.98,high,low,9,namecheap,,,09/09/2026 11:12
 e068b4b3-b62e-4fc7-9962-0b344269f29b,norvasc.vc,available,32.98,41.98,medium,low,7,namecheap,,,18/09/2026 21:58
+18637882-3f89-4aa1-ba43-0f0e06da7dcb,persecution.vc,available,27.5,27.5,medium,low,11,dynadot,,,29/09/2026 16:24
+ce6fe8a1-510b-494d-8a59-9918735096e2,superiority.vc,available,32.98,41.98,high,low,11,namecheap,,,29/09/2026 16:23
 cd8344b7-b8d1-4867-b3c0-4a9fc2106963,caprice.vc,available,32.98,41.98,high,low,7,namecheap,,,24/09/2026 12:38
 2a5a561b-9996-43ba-b8ad-0fbab0e958d6,slender.vc,available,32.98,41.98,high,low,7,namecheap,,,24/08/2026 01:14
 6e8faa92-427f-4729-86ff-211783ab5d06,pasang.vc,available,32.98,41.98,medium,low,6,namecheap,,,23/09/2026 12:24
@@ -396,13 +423,17 @@ e415c908-1abb-4fc6-86c1-af860353ec19,archaic.vc,available,32.98,41.98,high,low,7
 69b027d5-abf9-46ff-bc8f-31f357919837,nuns.vc,available,27.5,27.5,medium,low,4,dynadot,,,28/09/2026 12:28
 de495bda-2be3-423f-80ea-13337931cf96,cautious.vc,available,32.98,41.98,high,low,8,namecheap,,,11/08/2026 22:44
 b876f3e9-723e-4ad3-93e3-9aaa7cff1b0f,wikimedia.vc,available,39,,high,high,9,name.com,,,
-eb8cf2c9-4608-4fd9-9d96-09258cbba434,singsong.vc,available,32.98,41.98,medium,low,8,namecheap,,,12/08/2026 02:09
+eb8cf2c9-4608-4fd9-9d96-09258cbba434,singsong.vc,available,32.98,41.98,high,low,8,namecheap,,,12/08/2026 02:09
 589c1943-2e39-4aa6-b09a-d567508a69f7,populated.vc,available,32.98,41.98,high,low,9,namecheap,,,08/09/2026 23:55
 adcb1930-5dc0-4fa5-ab9e-95c2892c5b97,neurotic.vc,available,32.98,41.98,medium,low,8,namecheap,,,03/09/2026 16:23
+5af130bc-b00e-4d4f-bfa0-5d024ab39407,pleasures.vc,available,26.06,26.06,medium,low,9,porkbun,,,29/09/2026 16:55
 1de04472-4799-40b1-aecf-01c4daf35ac6,bangui.vc,available,32.98,41.98,high,low,6,namecheap,,,22/09/2026 02:03
+69aeaa7c-98de-453b-a24b-8da19a807026,nonetheless.vc,available,32.98,41.98,medium,low,11,namecheap,,,29/09/2026 10:11
+3496df51-710f-4aef-b1c2-3e185a278812,sco.vc,available,26.06,26.06,high,high,3,porkbun,,,29/09/2026 21:02
 b7e948f1-daf0-4534-b50b-133c28840818,shopworn.vc,available,32.98,41.98,low,low,8,namecheap,,,08/08/2026 11:06
 b4e81e5f-78e6-41a2-acdb-ad4852881e9c,newborn.vc,resell,,,high,low,7,"GoDaddy.com, LLC",05/05/2023 20:32,05/05/2027 20:32,26/09/2026 07:45
 c4c1b5a6-a344-4827-bf85-e92d31ae2566,inundated.vc,available,32.98,41.98,medium,low,9,namecheap,,,08/08/2026 00:29
+232f6255-c3e5-43e1-937a-beb05fff40b2,prevented.vc,available,27.5,27.5,medium,low,9,dynadot,,,29/09/2026 10:45
 91e732d5-7e5e-47b5-9513-af7e4088c9c3,vodka.vc,resell,,,high,low,5,Dynadot Inc,18/05/2026 16:22,18/05/2027 16:22,26/09/2026 10:01
 fc47928c-090a-41c3-ac11-8e4ee2bca9d6,shears.vc,available,39,,high,low,6,name.com,,,
 314e9fee-d64b-4b28-932f-dcae10e21d61,zaire.vc,available,32.98,41.98,high,medium,5,namecheap,,,23/09/2026 04:58
@@ -411,27 +442,32 @@ cdce16c0-f6b8-4148-befb-69c4110de740,configured.vc,available,32.98,41.98,high,lo
 28f32079-3d2f-4c6e-9c02-8916dcf7b1cb,sharks.vc,resell,,,medium,low,6,,,,27/09/2026 23:50
 8a4362d2-cb1d-4f1b-8062-b844368a6a82,riled.vc,available,32.98,41.98,medium,low,5,namecheap,,,
 92518fd0-5d86-4264-95b5-5d92ba39b7e1,unadorned.vc,available,32.98,41.98,medium,low,9,namecheap,,,11/09/2026 23:54
+bf26abf0-f758-4113-b4a6-72713427aefa,spurs.vc,available,27.5,27.5,high,low,5,dynadot,,,29/09/2026 09:52
 9f4260dc-5f09-4e10-a775-5e5184193d2d,pyramid.vc,resell,,,high,low,7,"GoDaddy.com, LLC",16/07/2021 01:11,16/07/2027 01:11,26/09/2026 08:26
 c46ed66d-cff2-415e-a571-90290d85be16,world.vc,resell,,,high,medium,5,"GoDaddy.com, LLC",23/07/2023 01:11,23/07/2027 01:11,27/09/2026 08:03
 c32c28c1-99a7-4a1e-ba6b-c81f73ecc878,troop.vc,resell,,,high,low,5,,,,28/09/2026 02:58
+7383efc2-d0e2-45ac-af30-ad8ccc202cf1,confederate.vc,available,27.5,27.5,high,low,11,dynadot,,,29/09/2026 08:51
 432a1b94-c4c1-403e-93ef-ea9c48be3624,feasible.vc,resell,,,high,low,8,"Sav.com, LLC",02/07/2023 06:24,02/07/2027 06:24,26/09/2026 06:02
-21d5f7a5-4664-4984-b4d5-f5f682e7f576,afferent.vc,available,32.98,41.98,medium,low,8,namecheap,,,
+21d5f7a5-4664-4984-b4d5-f5f682e7f576,afferent.vc,available,32.98,41.98,high,low,8,namecheap,,,
 b1eb1873-4fb2-446b-a9e1-ea3928b63df3,skint.vc,available,32.98,41.98,medium,low,5,namecheap,,,11/08/2026 05:21
 84aaa30a-3811-43d1-824f-dd1e4f1a3d26,fluorescence.vc,available,27.5,27.5,medium,low,12,dynadot,,,27/09/2026 23:02
 ee93ec2a-033c-4ede-912a-74a8b7444399,bhaga.vc,available,32.98,41.98,medium,low,5,namecheap,,,23/09/2026 12:29
+725a7125-5db5-44cc-aaf8-f86d5fc9c876,deportation.vc,available,32.98,41.98,medium,low,11,namecheap,,,29/09/2026 23:26
+e776c060-84b4-4f86-b216-003aa1c78428,securities.vc,available,27.5,27.5,high,low,10,dynadot,,,29/09/2026 22:51
 396ea287-2f08-4e5b-bfa0-3557337031d6,barwood.vc,available,32.98,41.98,medium,low,8,namecheap,,,
 82c924a9-b3fd-411a-8ad9-6c04b3c05b3c,webmasters.vc,available,32.98,41.98,medium,low,10,namecheap,,,18/09/2026 23:06
 da589191-3bf4-441e-8da5-09ab81ac6ccb,model.vc,resell,,,high,medium,5,Dynadot Inc,21/09/2020 01:08,21/09/2027 01:08,28/09/2026 02:57
-1907cdb8-d859-4bfe-9fee-9edead36cf48,gramophone.vc,available,32.98,41.98,medium,low,10,namecheap,,,17/09/2026 02:30
+1907cdb8-d859-4bfe-9fee-9edead36cf48,gramophone.vc,available,32.98,41.98,high,low,10,namecheap,,,17/09/2026 02:30
 6b41dd94-ce2d-44d7-87e3-e0261ac67137,documentation.vc,available,39,,high,low,13,name.com,,,
-8a07064c-799b-4062-8b7b-c93e251d955b,gita.vc,available,32.98,41.98,medium,low,4,namecheap,,,23/09/2026 12:33
+8a07064c-799b-4062-8b7b-c93e251d955b,gita.vc,available,32.98,41.98,high,low,4,namecheap,,,23/09/2026 12:33
 1ae1d99d-bd1a-4d18-b39a-1f363745e90a,lettered.vc,available,32.98,41.98,medium,low,8,namecheap,,,22/08/2026 16:54
 869e6023-7f74-4f18-9100-61d538db6f1c,cropped.vc,available,32.98,41.98,high,low,7,namecheap,,,13/08/2026 07:53
-7ae31d41-98b0-4c9c-a358-d11d56a8cdc6,enclosed.vc,available,32.98,41.98,medium,low,8,namecheap,,,16/08/2026 22:21
+7ae31d41-98b0-4c9c-a358-d11d56a8cdc6,enclosed.vc,available,32.98,41.98,high,low,8,namecheap,,,16/08/2026 22:21
+d8262032-f77f-42b6-b3c9-28df97aa5775,newsletter.vc,resell,,,high,low,10,,,,30/09/2026 02:23
 4926f0a9-5710-4481-bd91-c1882e1010d6,equine.vc,available,32.98,41.98,high,low,6,namecheap,,,17/08/2026 11:45
 646a7336-5f71-4be9-9cde-e93d64a5517b,modernity.vc,available,32.98,41.98,high,low,9,namecheap,,,24/09/2026 17:40
 a11a656b-6be9-4ecf-ab7d-54f6c5e51195,signing.vc,available,32.98,41.98,high,low,7,namecheap,,,27/09/2026 05:19
-e13d79e8-40b1-4669-80f2-936929d306ee,neither.vc,available,32.98,41.98,medium,low,7,namecheap,,,03/09/2026 15:18
+e13d79e8-40b1-4669-80f2-936929d306ee,neither.vc,available,32.98,41.98,high,low,7,namecheap,,,03/09/2026 15:18
 76301c4a-1088-4b63-bbe9-dd8cfea43d8c,aerophagia.vc,available,32.98,41.98,medium,low,10,namecheap,,,17/09/2026 13:11
 20c153db-79d1-410c-bfe3-3758b0dd130e,checkroom.vc,available,32.98,41.98,medium,low,9,namecheap,,,24/09/2026 14:04
 969d15e5-955e-4fe9-9342-30a0fda665b0,advil.vc,available,39,46.99,medium,low,5,name.com,,,17/09/2026 11:20
@@ -439,11 +475,11 @@ e13d79e8-40b1-4669-80f2-936929d306ee,neither.vc,available,32.98,41.98,medium,low
 817a633d-aef3-4fec-b525-dc642b0a4591,dickey.vc,available,32.98,41.98,medium,low,6,namecheap,,,14/08/2026 06:29
 818c97c9-25ec-4b14-bfe1-6d28796238a8,prodigal.vc,available,32.98,41.98,high,low,8,namecheap,,,09/09/2026 02:36
 b0acb6f5-53af-49f3-ab4f-bacd38c2b96d,cardigan.vc,available,32.98,41.98,high,low,8,namecheap,,,24/09/2026 12:52
-6e203608-5e00-44dd-8d3f-3a5e01530d00,duck.vc,resell,,,high,low,4,"Sav.com, LLC",17/08/2020 00:06,17/08/2027 00:06,26/09/2026 05:42
+6e203608-5e00-44dd-8d3f-3a5e01530d00,duck.vc,resell,,,high,low,4,"Sav.com, LLC",17/08/2020 00:06,17/08/2027 00:06,29/09/2026 17:03
 cb360fca-7684-4d06-8141-c145805bab11,undermine.vc,available,27.5,27.5,medium,low,9,dynadot,,,29/09/2026 06:16
 fafd4211-b4b4-4917-96f5-7bde57e44bb1,schoolwide.vc,available,32.98,41.98,medium,low,10,namecheap,,,09/09/2026 23:18
 d54cde27-f06d-44b0-ae64-af7b9bc4cdff,dipper.vc,available,32.98,41.98,high,low,6,namecheap,,,23/09/2026 14:29
-ec60c60f-f9d5-4493-867b-95006428a1be,johnstone.vc,available,26.06,26.06,medium,low,9,porkbun,,,27/09/2026 23:26
+ec60c60f-f9d5-4493-867b-95006428a1be,johnstone.vc,available,26.06,26.06,high,low,9,porkbun,,,27/09/2026 23:26
 699b24f3-e22c-47b3-93a2-cfd421106bb2,dicky.vc,available,32.98,41.98,medium,low,5,namecheap,,,14/08/2026 06:27
 cfdf6cc2-4f6a-435a-9dc4-72b857af33c3,irb.vc,available,27.5,27.5,medium,low,3,dynadot,,,29/09/2026 03:06
 dbff95f4-2050-49c2-84d2-c538021f30c1,tattooing.vc,available,32.98,41.98,high,low,9,namecheap,,,18/09/2026 01:47
@@ -458,11 +494,12 @@ cb854903-0a44-4932-8992-13c54c25313b,tapping.vc,available,27.5,27.5,high,low,7,d
 2be3c678-1bad-4a09-bae2-3e87e507726a,marquette.vc,available,32.98,41.98,high,low,9,namecheap,,,25/09/2026 07:53
 1db8ba0a-c462-4a6c-92fe-1c0f07795524,aryan.vc,available,32.98,41.98,high,high,5,namecheap,,,07/08/2026 00:01
 250ea3b8-654c-417f-8f50-eb5641984da1,tokugawa.vc,available,27.5,27.5,low,low,8,dynadot,,,28/09/2026 09:08
-4d54ec97-3cfd-4c77-8fb4-605497215f1d,gratefully.vc,available,32.98,41.98,medium,low,10,namecheap,,,13/09/2026 20:28
+4d54ec97-3cfd-4c77-8fb4-605497215f1d,gratefully.vc,available,32.98,41.98,high,low,10,namecheap,,,13/09/2026 20:28
 b7189706-db4b-40cb-9cd8-abaad2e60e43,laotian.vc,available,32.98,41.98,medium,low,7,namecheap,,,22/08/2026 19:36
 821924c4-29a4-4760-b9ec-587d3f42d6a7,sunken.vc,available,32.98,41.98,medium,low,6,namecheap,,,13/08/2026 22:55
 cbae13a6-a348-4718-b641-e3a0a6471567,surveys.vc,available,32.98,41.98,medium,low,7,namecheap,,,17/09/2026 07:59
-57ba6784-7eb8-4c32-ac7f-a04b20169df0,hypocrite.vc,available,32.98,41.98,medium,low,9,namecheap,,,08/09/2026 19:08
+61901972-a4d9-4372-8c43-99b44dca1b24,gaba.vc,available,26.06,26.06,high,low,4,porkbun,,,29/09/2026 12:26
+57ba6784-7eb8-4c32-ac7f-a04b20169df0,hypocrite.vc,available,32.98,41.98,high,low,9,namecheap,,,08/09/2026 19:08
 cb136c49-b1a0-48cc-a6eb-5bae489a2f60,godown.vc,available,39,,medium,low,7,name.com,,,
 c18be638-f14a-49d0-a28b-1d0fc3015a80,warren.vc,resell,,,high,low,6,,,,29/09/2026 00:43
 e0633e6c-2b94-42f9-b6d4-381cf181a1db,hag.vc,available,32.98,41.98,high,low,3,namecheap,,,23/09/2026 04:44
@@ -479,12 +516,14 @@ f577ffb9-a785-4632-933c-99c9066334a4,rabbits.vc,available,32.98,41.98,medium,low
 02921bbe-b790-43f4-9f3a-7d43f8060512,sooner.vc,available,32.98,41.98,high,low,6,namecheap,,,15/09/2026 21:16
 5cb9c48e-ec26-4870-b1d4-746befc8bd84,tamed.vc,available,32.98,41.98,high,low,5,namecheap,,,11/09/2026 07:46
 c9730bdb-4c7f-4379-8707-190362336387,harquebus.vc,available,39,46.99,medium,low,9,name.com,,,20/09/2026 08:40
+4f363b6d-8e41-4f8e-a7b5-fabab4a27b14,milan.vc,resell,,,high,low,5,,,,29/09/2026 07:37
+1804aa70-7136-41d7-b202-f5a17e12f4a6,editors.vc,available,27.5,27.5,medium,low,7,dynadot,,,29/09/2026 17:03
 66bd6bdc-b101-4c90-910c-811448bde0cd,anisotropy.vc,available,32.98,41.98,medium,low,10,namecheap,,,19/09/2026 09:38
 e9b74693-4378-43da-aa35-0d0052f6081f,subacid.vc,available,32.98,41.98,medium,low,7,namecheap,,,10/09/2026 23:22
 11703416-aa73-44f9-8194-bc0e71118e55,anteroom.vc,available,32.98,41.98,medium,low,8,namecheap,,,19/09/2026 12:42
 0142ce88-22f4-4530-bfa1-87d96c8034cf,birdseed.vc,available,32.98,41.98,high,low,8,namecheap,,,23/09/2026 19:50
 e54dd02a-8b60-4b74-8147-b07191d0dcdb,antigone.vc,available,32.98,41.98,medium,low,8,namecheap,,,19/09/2026 14:26
-76fc6cbf-e26f-4a36-9db2-58f64097304f,marvel.vc,resell,,,high,low,6,Dynadot Inc,05/07/2023 01:06,05/07/2027 01:06,26/09/2026 07:27
+76fc6cbf-e26f-4a36-9db2-58f64097304f,marvel.vc,resell,,,high,low,6,Dynadot Inc,05/07/2023 01:06,05/07/2027 01:06,30/09/2026 03:58
 57a0483b-39dd-4653-9104-4f35d78f4e65,landlocked.vc,available,32.98,41.98,medium,low,10,namecheap,,,22/08/2026 19:26
 236622d0-ed0d-44cc-b1d2-5a1799013487,annals.vc,available,32.98,41.98,high,low,6,namecheap,,,19/09/2026 10:05
 96f5e48e-96a5-4359-bb7b-6476c873b880,natasha.vc,available,27.5,27.5,medium,low,7,dynadot,,,28/09/2026 11:59
@@ -492,7 +531,10 @@ fc969069-b735-4153-9ae4-62222c0851d5,acicular.vc,available,32.98,41.98,medium,lo
 dcf1d68e-48a3-4bf2-8c56-b06043d7db46,achira.vc,available,32.98,41.98,medium,low,6,namecheap,,,17/09/2026 00:42
 ffa36ef5-bc32-4c89-8be5-4f0b2fe2d6fc,appoint.vc,available,32.98,41.98,high,low,7,namecheap,,,24/09/2026 08:21
 5eb5a20e-782f-4899-b111-de6686630978,keyserver.vc,available,39,,medium,low,10,name.com,,,
+8531f609-07ec-4446-abcb-17f642008d58,doncaster.vc,available,26.06,26.06,high,low,9,porkbun,,,29/09/2026 23:47
 6c8456c2-b610-4538-84e4-3c12a8d841bb,cough.vc,available,32.98,41.98,high,low,5,namecheap,,,24/09/2026 18:37
+e58c2526-e65a-4c49-b9c6-98a0f88bf9fe,miner.vc,resell,,,high,low,5,,,,29/09/2026 19:40
+bc243bfc-1361-40dd-ab47-87c5412eeeda,gretchen.vc,available,32.98,41.98,high,low,8,namecheap,,,29/09/2026 09:29
 e5a43b80-1bc7-4877-acf0-b6686860ded2,refundable.vc,available,39,,high,low,10,name.com,,,
 b085d4e3-6a31-4a5f-a6d5-6ddbf867aa18,adh.vc,available,32.98,41.98,high,low,3,namecheap,,,17/09/2026 07:56
 b9af4162-d175-43db-80c5-764ba74bd70a,bracer.vc,available,32.98,41.98,medium,low,6,namecheap,,,20/09/2026 06:51
@@ -502,17 +544,18 @@ fe5c344e-320e-4b1e-9552-afd40df58b27,stuttgart.vc,available,32.98,41.98,high,low
 28753254-927e-4c78-b4fb-67e7d689f641,eviscerate.vc,available,32.98,41.98,medium,low,10,namecheap,,,17/08/2026 15:10
 091fcaee-7f14-4e06-8de8-32274b2ac621,extended.vc,available,32.98,41.98,high,low,8,namecheap,,,14/08/2026 18:31
 eba996be-aa02-4970-97b1-0f564618f5ab,amended.vc,available,32.98,41.98,medium,low,7,namecheap,,,
+c8fca26a-d152-46e2-8d71-0869e5f23295,cabrera.vc,available,27.5,27.5,medium,low,7,dynadot,,,29/09/2026 09:57
 971335a5-4b42-4b9b-8dc9-e3f189db5f7f,wingless.vc,available,32.98,41.98,medium,low,8,namecheap,,,13/09/2026 12:31
 4f49ef1e-47c6-4607-a1bb-7e162303d7c4,catenate.vc,available,32.98,41.98,medium,low,8,namecheap,,,11/08/2026 21:39
 aa391762-6aba-4693-aade-bc1b9ae9b3b2,manager.vc,resell,,,high,low,7,Dynadot Inc,23/07/2020 16:59,23/07/2027 16:59,26/09/2026 07:24
 c8777f7f-7211-419c-bbca-01f0db4bc2ab,adducent.vc,available,32.98,41.98,medium,low,8,namecheap,,,
-5f87c924-74b2-4236-b526-149aa90bee4d,leakproof.vc,available,32.98,41.98,medium,low,9,namecheap,,,22/08/2026 21:59
+5f87c924-74b2-4236-b526-149aa90bee4d,leakproof.vc,available,32.98,41.98,high,low,9,namecheap,,,22/08/2026 21:59
 d51de4dd-d836-44c3-91f7-3db19a550633,ancestral.vc,available,32.98,41.98,high,low,9,namecheap,,,
 2fce807a-ccb4-4eb1-ac67-4f0c90e84cc2,tillable.vc,available,32.98,41.98,medium,low,8,namecheap,,,06/08/2026 11:25
 d264f44c-9561-44fc-8594-1c5ef8aca442,departure.vc,available,,,high,low,9,,,,
 3a4fa204-ef85-4e4a-894f-d3116aa81698,futurist.vc,resell,,,high,low,8,"Sav.com, LLC",21/12/2023 05:30,21/12/2026 05:30,26/09/2026 06:18
 d76c4baf-77a7-4a67-8890-f1fcea805c2c,germinal.vc,available,32.98,41.98,high,low,8,namecheap,,,18/08/2026 22:49
-602b4a9f-5288-4077-8559-b7708f6c7541,quadruplex.vc,available,32.98,41.98,medium,low,10,namecheap,,,18/08/2026 13:26
+602b4a9f-5288-4077-8559-b7708f6c7541,quadruplex.vc,available,32.98,41.98,high,low,10,namecheap,,,18/08/2026 13:26
 79899dd8-cb30-4323-8833-cd3c6048cd1e,adulterous.vc,available,32.98,41.98,medium,low,10,namecheap,,,
 00f5efca-9c43-4050-a07c-dd33020eaf30,stannic.vc,available,32.98,41.98,low,low,7,namecheap,,,10/09/2026 18:41
 f4da89ad-dfec-49c4-97da-fe071b6f37ee,saints.vc,resell,,,medium,low,6,,,,28/09/2026 16:34
@@ -522,6 +565,7 @@ f4da89ad-dfec-49c4-97da-fe071b6f37ee,saints.vc,resell,,,medium,low,6,,,,28/09/20
 37867bd4-3f0b-49fc-a4ba-c34ffe836762,harassed.vc,available,32.98,41.98,medium,low,8,namecheap,,,21/08/2026 00:06
 1cab9fe3-4004-4956-84ba-a53522468ad8,anomala.vc,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 11:24
 02035bf4-8673-449c-a253-5a4074f8c4d9,participating.vc,available,39,,medium,low,13,name.com,,,
+ae1c1980-dd53-4a2a-8cbe-2b8f35a422fd,citation.vc,available,26.06,26.06,high,low,8,porkbun,,,29/09/2026 18:20
 903725a8-9853-41fe-bed5-9e06e2a4faac,jenner.vc,available,27.5,27.5,medium,low,6,dynadot,,,29/09/2026 00:45
 cdc67694-0815-4f88-abca-e5bc71f94d54,nettlesome.vc,available,32.98,41.98,medium,low,10,namecheap,,,
 e9ed3b36-b908-4670-86d0-a220e9685662,nimitz.vc,available,32.98,41.98,medium,low,6,namecheap,,,17/09/2026 08:52
@@ -532,6 +576,7 @@ fc1dc318-b546-49b7-a56e-b4b1c944de3a,mickey.vc,available,32.98,41.98,high,low,6,
 03a489c4-7c65-4531-85db-b926191dc2e5,establishments.vc,available,39,,medium,low,14,name.com,,,
 756b8ce7-a249-4d38-9ce5-7442ab9d6158,parisian.vc,available,32.98,41.98,high,low,8,namecheap,,,08/09/2026 01:34
 10e9f153-ee9e-4211-8e57-62d323ad0a81,sycophant.vc,available,32.98,41.98,medium,low,9,namecheap,,,20/09/2026 15:34
+a42aa760-ff2e-4c97-ace7-6c3d41147b44,siegfried.vc,available,26.06,26.06,medium,low,9,porkbun,,,30/09/2026 02:51
 1dad70de-f48e-4097-ab13-087e82988526,ribbed.vc,available,32.98,41.98,medium,low,6,namecheap,,,13/08/2026 03:08
 33c0582c-b17f-4ca0-a081-85dca6055b3d,browsing.vc,available,27.5,27.5,high,low,8,dynadot,,,29/09/2026 04:42
 c4c9667a-d6d0-4f0d-825e-2c014dfe9d07,unlovely.vc,available,32.98,41.98,medium,low,8,namecheap,,,12/09/2026 15:12
@@ -541,8 +586,8 @@ f411099b-8019-4cb1-be1d-e9880154a421,plodder.vc,available,32.98,41.98,medium,low
 0b06020e-c06d-47d3-97e7-af1768ffe614,advertiser.vc,available,32.98,41.98,high,low,10,namecheap,,,17/09/2026 08:38
 ca96a0e4-5993-408a-9a31-237b147c495f,authorities.vc,available,32.98,41.98,medium,low,11,namecheap,,,27/09/2026 02:17
 a900c6ef-9762-48a2-a0a6-ff9a27a71d41,henceforth.vc,available,32.98,41.98,medium,low,10,namecheap,,,15/09/2026 00:15
-1e5a8073-d404-418a-a390-e07237ece073,hardened.vc,available,32.98,41.98,medium,low,8,namecheap,,,11/08/2026 20:01
-6cbf7151-5374-4953-ac1e-f16c95533025,angled.vc,available,32.98,41.98,medium,low,6,namecheap,,,
+1e5a8073-d404-418a-a390-e07237ece073,hardened.vc,available,32.98,41.98,high,low,8,namecheap,,,11/08/2026 20:01
+6cbf7151-5374-4953-ac1e-f16c95533025,angled.vc,available,32.98,41.98,high,low,6,namecheap,,,
 5fd4288f-9203-49cc-a6d9-ce13c07ab11c,tiger.vc,resell,,,high,medium,5,Dynadot Inc,10/03/2016 09:01,10/03/2027 09:01,26/09/2026 09:38
 9b75b188-6b4c-4464-b026-95ea5d3355be,ellsworth.vc,available,32.98,41.98,medium,low,9,namecheap,,,27/09/2026 13:20
 288f776a-9590-4184-86ad-cc0331c395fc,haphazard.vc,available,32.98,41.98,medium,low,9,namecheap,,,20/08/2026 23:46
@@ -572,12 +617,14 @@ d400359b-e40f-4ad4-969d-66e5214bae31,aerator.vc,available,32.98,41.98,medium,low
 095ce653-a21b-4ff4-8742-be1bedf03b4c,saxon.vc,available,32.98,41.98,high,low,5,namecheap,,,09/09/2026 22:11
 27182189-eaf5-474c-942d-92e590d85634,logs.vc,available,26.06,26.06,medium,low,4,porkbun,,,28/09/2026 17:47
 ea94b264-5f4c-49c8-9994-8a69c6702a5a,postpartum.vc,available,32.98,41.98,high,low,10,namecheap,,,09/09/2026 00:37
+94594dc1-6458-4345-bcef-70a1f6a503b1,enterprises.vc,resell,,,medium,low,11,,,,29/09/2026 11:23
 6b185456-b370-4868-8fbf-66bcb8690684,refreshment.vc,available,32.98,41.98,high,low,11,namecheap,,,19/09/2026 14:11
 efddb841-65ec-4a37-8d5d-93329cb0d07e,ovoid.vc,available,32.98,41.98,medium,low,5,namecheap,,,15/08/2026 18:50
 9e4a430b-5da8-4ae0-b094-7421e3efa849,plutonian.vc,available,32.98,41.98,medium,low,9,namecheap,,,20/08/2026 21:34
 8e8446a5-c8e1-4c96-bb1e-8750a7442a83,improper.vc,available,32.98,41.98,medium,low,8,namecheap,,,21/08/2026 23:12
 7a2c9549-8bbb-4b5f-b911-7bb8c489549b,anura.vc,available,32.98,41.98,medium,low,5,namecheap,,,19/09/2026 15:53
 96103c18-ea9c-42d4-ab1a-5a4909e95ca7,veins.vc,available,26.06,26.06,medium,low,5,porkbun,,,28/09/2026 08:48
+59e8e394-f932-4937-bdae-9cef6bd0a8a9,militia.vc,available,32.98,41.98,high,low,7,namecheap,,,29/09/2026 19:40
 c85ae50c-4ae6-4f2a-95e3-c63dc4227b68,benghazi.vc,available,32.98,41.98,medium,low,8,namecheap,,,23/09/2026 08:04
 6e3ecb1f-3334-45b6-9788-614f8a72d02d,packs.vc,available,32.98,41.98,medium,low,5,namecheap,,,20/09/2026 13:29
 5db41ba8-5c51-4ada-ac00-ca46876d2b3f,celebrated.vc,available,32.98,41.98,high,low,10,namecheap,,,11/08/2026 23:10
@@ -587,17 +634,19 @@ fd4b49ac-3bb5-4449-a08e-365d31de4687,expandable.vc,available,32.98,41.98,high,lo
 7ec212b9-cc09-45f8-8772-315f160c33e1,extrinsic.vc,available,32.98,41.98,medium,low,9,namecheap,,,17/08/2026 19:37
 59e7a1df-e8ff-49b9-b8e8-8d35523231a1,avena.vc,available,32.98,41.98,high,low,5,namecheap,,,21/09/2026 08:53
 d5ead1e2-2437-4ea7-b6f8-677c8087ef10,avellan.vc,available,32.98,41.98,medium,low,7,namecheap,,,07/08/2026 22:24
-732bc5c3-6b4d-461e-9292-9aeea8c37350,forfeiture.vc,available,32.98,41.98,medium,low,10,namecheap,,,18/08/2026 11:45
+732bc5c3-6b4d-461e-9292-9aeea8c37350,forfeiture.vc,available,32.98,41.98,high,low,10,namecheap,,,18/08/2026 11:45
 3e9e2dba-4817-4fcd-a440-169a3e32a69c,unrecorded.vc,available,32.98,41.98,medium,low,10,namecheap,,,24/08/2026 07:46
 07f2b635-c891-478c-bcf9-361191104c50,undyed.vc,available,32.98,41.98,medium,low,6,namecheap,,,12/09/2026 02:08
-24436046-f26a-4a9d-b42f-8d88181b6af8,humanely.vc,available,32.98,41.98,medium,low,8,namecheap,,,15/09/2026 01:17
+24436046-f26a-4a9d-b42f-8d88181b6af8,humanely.vc,available,32.98,41.98,high,low,8,namecheap,,,15/09/2026 01:17
 889d9ecc-33ce-46d9-978a-4ad797c2ff32,sintered.vc,available,32.98,41.98,medium,low,8,namecheap,,,10/09/2026 08:34
 182d2115-31d4-43fa-a1d7-2ee54c5d8f47,scratched.vc,available,39,,medium,low,9,name.com,,,
 3d5f041c-dfc4-411c-a2be-fab211c26cb5,puppylike.vc,available,32.98,41.98,high,medium,9,namecheap,,,09/09/2026 06:10
+f54369ca-5cc6-4960-9c2d-21c851bdaa4a,siberia.vc,available,32.98,41.98,high,low,7,namecheap,,,29/09/2026 20:20
 ac0902c5-a0c2-4635-a865-716921f95d26,relaxant.vc,available,32.98,41.98,high,low,8,namecheap,,,09/09/2026 13:22
 a5c6a117-15e4-449d-b7de-50b61f9da075,affectionate.vc,available,39,,high,low,12,name.com,,,
 d1c47071-7c71-4df1-8f0b-e1045d509535,retrovir.vc,available,39,46.99,medium,low,8,name.com,,,21/09/2026 11:31
 b89554fe-9266-4f22-8983-78730db259ba,meade.vc,available,32.98,41.98,high,low,5,namecheap,,,27/09/2026 04:12
+60ce952e-c176-4763-9c5c-361a6955016b,saturdays.vc,available,32.98,41.98,medium,low,9,namecheap,,,29/09/2026 15:55
 896d4273-84e5-43b4-a206-97058684d623,elaine.vc,available,32.98,41.98,high,low,6,namecheap,,,25/09/2026 15:24
 0e7db1f4-91c5-4c70-a7e9-5b69a3993407,cabbage.vc,resell,,,high,low,7,Dynadot Inc,23/02/2025 12:24,23/02/2028 12:24,29/09/2026 03:24
 6a01fe40-f299-4491-b4bd-487b266b81ae,interrupt.vc,available,39,46.99,high,low,9,name.com,,,13/08/2026 12:38
@@ -606,26 +655,29 @@ b89554fe-9266-4f22-8983-78730db259ba,meade.vc,available,32.98,41.98,high,low,5,n
 14fe2eac-e5a3-4f6d-b688-39f8a3a42322,accolade.vc,resell,,,high,low,8,"Sav.com, LLC",25/10/2025 23:43,25/10/2028 23:43,26/09/2026 01:20
 dbceb334-1e39-4482-ae92-a5e82532fe85,homebound.vc,available,32.98,41.98,medium,low,9,namecheap,,,21/08/2026 10:54
 75db4a3b-1cbf-4c3e-af0b-f0b9221d6841,billfish.vc,available,32.98,41.98,medium,low,8,namecheap,,,23/09/2026 16:15
+b371f5ff-85fa-40e7-9936-859b4e856373,trainee.vc,available,32.98,41.98,high,low,7,namecheap,,,29/09/2026 20:32
 ccbad88c-f243-4891-8051-80cb56895ca0,porter.vc,resell,,,high,low,6,,,,28/09/2026 01:41
 dc91b4ea-b4b2-4048-8007-52ccec7450b3,nebulous.vc,available,32.98,41.98,medium,low,8,namecheap,,,12/08/2026 12:45
 f2cc2572-b9ef-4816-a387-d1c9fc42e2cd,roundel.vc,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 11:05
 6c54d260-f1fa-4099-86f2-3a3637eafae7,bombastic.vc,available,32.98,41.98,high,low,9,namecheap,,,10/08/2026 18:01
 c4b9c915-e244-4243-a1a9-fbfa1dc9b38b,acquitted.vc,available,32.98,41.98,medium,low,9,namecheap,,,
-6b57ca4f-e0b8-41a5-a551-8e04541bf3c4,bottled.vc,available,32.98,41.98,medium,low,7,namecheap,,,29/09/2026 03:12
+6b57ca4f-e0b8-41a5-a551-8e04541bf3c4,bottled.vc,available,32.98,41.98,high,low,7,namecheap,,,29/09/2026 03:12
 d96f454a-f24e-4092-8cbb-ee5a19468e61,arendt.vc,available,32.98,41.98,medium,low,6,namecheap,,,20/09/2026 03:43
 9cc643e6-aab2-4a41-a6c5-26b8146fa551,neurogenic.vc,available,32.98,41.98,medium,low,10,namecheap,,,03/09/2026 16:12
 d5660f22-542a-45d8-bbaf-b7bd5321f9af,punish.vc,available,32.98,41.98,high,low,6,namecheap,,,27/09/2026 06:05
 10ad3a80-3f42-4d56-b45a-a45e8ecce27f,blarney.vc,available,32.98,41.98,high,medium,7,namecheap,,,12/08/2026 14:21
 327ea54b-e3b8-4b26-8b40-7e7e0f153561,ontogeny.vc,available,32.98,41.98,high,low,8,namecheap,,,20/08/2026 20:29
 c8e59c16-3743-4a56-8a58-56ea6db94b8a,choked.vc,available,32.98,41.98,medium,low,6,namecheap,,,12/08/2026 06:39
-0150b078-edb1-41e2-8e5a-98e039607bae,dracula.vc,available,39,,high,low,7,name.com,,,
+0150b078-edb1-41e2-8e5a-98e039607bae,dracula.vc,available,27.5,27.5,high,low,7,dynadot,,,29/09/2026 16:40
 4f0039d8-7950-4053-9e38-50ea8078525c,criterial.vc,available,32.98,41.98,medium,low,9,namecheap,,,13/08/2026 07:27
 a235cb22-2ff2-44a9-b498-62266d3297be,banister.vc,available,32.98,41.98,medium,low,8,namecheap,,,22/09/2026 00:28
 dc7c6ea7-8d80-4355-b599-412616aa9581,atriplex.vc,available,32.98,41.98,high,low,8,namecheap,,,21/09/2026 00:45
 23566bca-c7ca-4d32-8e29-7dbbf2385e1d,vince.vc,available,32.98,41.98,high,low,5,namecheap,,,27/09/2026 07:24
+92b972b4-865e-427c-a924-7bc5797da0c1,chauncey.vc,available,32.98,41.98,medium,low,8,namecheap,,,29/09/2026 15:30
+f1bdb312-5896-4504-8006-0bff34600ba0,earnings.vc,available,32.98,41.98,high,low,8,namecheap,,,29/09/2026 18:43
 99c003a8-18ac-47dd-8d01-425e5617b520,unhindered.vc,available,32.98,41.98,medium,low,10,namecheap,,,12/09/2026 11:55
 7b278148-fa1b-4d9c-a7d8-4d3a05d191f9,distressed.vc,available,32.98,41.98,medium,low,10,namecheap,,,14/08/2026 12:16
-cebfe1d5-91c7-4070-a24f-9d066a5aa4bc,island.vc,available,,,high,low,6,,,,
+899f5205-6bb3-407f-af73-fa823387d0d2,vertebrae.vc,available,32.98,41.98,low,low,9,namecheap,,,29/09/2026 22:57
 c84eb9a6-f02c-441c-8bcc-d0c37042c907,dingdong.vc,available,32.98,41.98,high,low,8,namecheap,,,14/09/2026 12:47
 afd6c72f-1294-4119-8c0b-cba5b5b274e2,unleaded.vc,available,32.98,41.98,high,low,8,namecheap,,,22/08/2026 21:46
 4ce860dc-d36f-4d9c-aa5f-e3718d9a0c07,depend.vc,available,39,,high,low,6,name.com,,,
@@ -633,8 +685,9 @@ e786cb72-0458-494b-87e6-5077e40a786b,laborious.vc,available,32.98,41.98,medium,l
 c130ef37-749a-4078-8111-239cfd90f0a9,rigor.vc,available,32.98,41.98,high,high,5,namecheap,,,20/09/2026 14:53
 401c1bf8-3844-4b1f-863d-fbcf16333eb9,macaronic.vc,available,32.98,41.98,medium,low,9,namecheap,,,24/08/2026 12:44
 88c6f535-2489-434f-8864-46a6caa5b965,sql.vc,resell,,,high,low,3,,,,28/09/2026 04:28
-7204f149-0171-4db4-926b-c886ac968a35,plague.vc,available,32.98,41.98,medium,low,6,namecheap,,,29/09/2026 02:58
-7fce1f57-442a-4356-b511-98baa2f03621,ovate.vc,available,32.98,41.98,medium,low,5,namecheap,,,15/08/2026 18:03
+b2481b27-42ee-4ccf-bb53-e8931a2a47c5,coordination.vc,resell,,,high,low,12,,,,29/09/2026 23:16
+7204f149-0171-4db4-926b-c886ac968a35,plague.vc,available,32.98,41.98,high,low,6,namecheap,,,29/09/2026 02:58
+7fce1f57-442a-4356-b511-98baa2f03621,ovate.vc,available,32.98,41.98,high,low,5,namecheap,,,15/08/2026 18:03
 adfdc38f-b993-4105-8ba3-4c993b301dae,forehand.vc,available,32.98,41.98,medium,low,8,namecheap,,,18/08/2026 11:38
 d8db3e87-2388-4f26-8208-510ff183a4bd,cafe.vc,resell,,,high,low,4,"Sav.com, LLC",13/09/2017 00:29,13/09/2027 00:29,26/09/2026 04:42
 01837eb1-b124-45c7-9cd3-5f97e2fa4293,remembrances.vc,available,32.98,41.98,medium,low,12,namecheap,,,19/09/2026 23:41
@@ -642,22 +695,27 @@ b590b0aa-858c-4c4b-9055-3efda75f1cf7,liquified.vc,available,32.98,41.98,medium,l
 95cb7fb9-32e2-498f-8b67-bd2dd424f9ef,raton.vc,available,32.98,41.98,medium,low,5,namecheap,,,28/09/2026 22:49
 364b101f-551b-435c-a0b5-ea8e7e0c83fb,astronaut.vc,resell,,,high,low,9,"NameCheap, Inc.",16/07/2017 11:18,16/07/2027 11:18,26/09/2026 04:05
 4738414a-297f-4d07-9d57-55aa4e714192,myotic.vc,available,32.98,41.98,medium,low,6,namecheap,,,25/08/2026 01:02
+1b5f2b2c-40e4-4244-8164-4fc8eb3df0de,golan.vc,available,32.98,41.98,medium,low,5,namecheap,,,30/09/2026 01:46
 0f01d498-fff0-4f4a-94e8-49113a5b34d9,apia.vc,available,32.98,41.98,medium,low,4,namecheap,,,19/09/2026 17:18
 9e971654-d14e-4402-abb8-b5e5bd40e1b5,perfectly.vc,available,27.5,27.5,high,low,9,dynadot,,,28/09/2026 11:37
 8fdb3903-a499-4d23-8a57-504d732da017,overcomes.vc,available,32.98,41.98,medium,low,9,namecheap,,,21/09/2026 04:26
 4a8834f2-ebd1-4223-b6c2-9bc5abbef026,profound.vc,resell,,,high,low,8,"GoDaddy.com, LLC",26/07/2023 01:07,26/07/2027 01:07,27/09/2026 07:12
-3b217a0d-729b-491e-ace5-ddc57311868b,palace.vc,resell,,,high,low,6,"GoDaddy.com, LLC",17/08/2020 00:03,17/08/2027 00:03,26/09/2026 08:00
+3b217a0d-729b-491e-ace5-ddc57311868b,palace.vc,resell,,,high,low,6,"GoDaddy.com, LLC",17/08/2020 00:03,17/08/2027 00:03,29/09/2026 07:39
 e42d5f9c-de0a-4c2d-8e1c-f9637dbd9d62,dodgy.vc,available,32.98,41.98,medium,low,5,namecheap,,,12/08/2026 01:46
 1cbb72f7-2910-476f-9562-5dd2753b245d,chuckle.vc,available,32.98,41.98,high,low,7,namecheap,,,24/09/2026 14:48
 a61db2b0-b1e8-406e-bb96-c011da6a6040,asteraceae.vc,available,39,46.99,medium,low,10,name.com,,,20/09/2026 17:03
 343631fb-2a7f-42d7-b36e-4ce6a5118ace,herself.vc,available,32.98,41.98,medium,low,7,namecheap,,,26/09/2026 03:24
+8bc8a664-e7db-4298-8ed0-36fd1af6f0c4,thriller.vc,available,26.06,26.06,high,low,8,porkbun,,,29/09/2026 14:04
 21ca7c99-8370-4cc1-9143-cedbabb13f1a,fade.vc,available,32.98,41.98,high,low,4,namecheap,,,28/09/2026 05:41
 f650d982-0d93-4f1b-881c-baad9b354345,banality.vc,available,32.98,41.98,medium,low,8,namecheap,,,12/08/2026 19:14
-c526a029-dc45-4433-ac62-9f2d3e5e54be,sleeveless.vc,available,32.98,41.98,medium,low,10,namecheap,,,10/08/2026 19:41
+c526a029-dc45-4433-ac62-9f2d3e5e54be,sleeveless.vc,available,32.98,41.98,high,low,10,namecheap,,,10/08/2026 19:41
 ef548eae-087e-40dd-bc84-7dbf0a719810,baluster.vc,available,32.98,41.98,medium,low,8,namecheap,,,22/09/2026 00:22
+eb91158d-00ee-47c6-ad09-e29a681ef6fd,ceremonies.vc,available,26.06,26.06,medium,low,10,porkbun,,,29/09/2026 10:36
+d519b1ea-91ef-4b68-ae2c-52a37b01e167,sociedad.vc,available,32.98,41.98,medium,low,8,namecheap,,,29/09/2026 10:09
 0efb0403-35f5-4072-b016-9a1da52f9e45,organs.vc,available,39,,high,low,6,name.com,,,
-a482b096-0b4d-44a7-9d67-bd6f2668dab1,echt.vc,available,32.98,41.98,medium,low,4,namecheap,,,14/08/2026 23:41
+a482b096-0b4d-44a7-9d67-bd6f2668dab1,echt.vc,available,32.98,41.98,high,low,4,namecheap,,,14/08/2026 23:41
 7c51813d-356a-456b-aa32-1cdd159d3f85,outwards.vc,available,32.98,41.98,medium,low,8,namecheap,,,04/09/2026 19:50
+392b39d2-84c6-45d5-b531-e251afe61a85,medic.vc,resell,,,high,low,5,,,,29/09/2026 19:38
 e6464d0c-2397-44d7-b734-5a7ccdbe1be0,atonality.vc,available,32.98,41.98,medium,low,9,namecheap,,,21/09/2026 00:25
 11d7dc06-1765-4b19-ad39-feecf6175ab4,baptism.vc,available,32.98,41.98,high,low,7,namecheap,,,22/09/2026 03:27
 fc213b7a-d03e-497e-9b13-b88be99dff07,upended.vc,available,32.98,41.98,medium,low,7,namecheap,,,12/09/2026 23:06
@@ -668,14 +726,17 @@ d7ff1f32-630f-465a-a2ec-52a65d1ec1ae,structures.vc,available,39,,medium,low,10,n
 fc29a0ca-558a-4e55-ab33-78e69d81c67f,ambulance.vc,available,32.98,41.98,high,low,9,namecheap,,,18/09/2026 17:28
 d43ae45f-923f-4eb2-8c27-95e83684578b,comparing.vc,available,32.98,41.98,high,low,9,namecheap,,,24/09/2026 16:45
 95faf5cc-fb80-4664-99de-c3aeda8bb6ba,aegean.vc,resell,,,high,low,6,"Sav.com, LLC",10/07/2025 00:09,10/07/2027 00:09,26/09/2026 01:24
+13f674e3-ba26-4708-885c-00c865207ffc,fragrance.vc,available,32.98,41.98,high,low,9,namecheap,,,29/09/2026 18:57
 3617cf94-778c-48f5-8e41-3c90e7324681,licenced.vc,available,32.98,41.98,medium,low,8,namecheap,,,21/09/2026 15:56
-4f745ea8-ddec-4e4c-9455-71de7fee019c,unpaid.vc,available,32.98,41.98,medium,low,6,namecheap,,,
+4f745ea8-ddec-4e4c-9455-71de7fee019c,unpaid.vc,available,32.98,41.98,high,low,6,namecheap,,,
 f830ffce-28c0-4567-947b-a9f10bfe071b,adding.vc,available,39,,high,low,6,name.com,,,
 76cb35a0-eb7e-4b03-b57f-5da7fc3f6462,alton.vc,available,32.98,41.98,high,low,5,namecheap,,,27/09/2026 07:13
 81cc102a-0645-45af-93d7-c3d380b6f3fa,markedly.vc,available,32.98,41.98,medium,low,8,namecheap,,,15/09/2026 13:31
 20354fb3-406f-4f26-bc35-ec0bec94578e,reagan.vc,available,32.98,41.98,medium,low,6,namecheap,,,28/09/2026 15:06
 a8158deb-fd45-4b5c-95ee-2f31dbd7f52d,galvanic.vc,available,32.98,41.98,medium,low,8,namecheap,,,18/08/2026 19:44
+63f146ad-f4ec-4a8d-aeac-141fa7f16119,moynihan.vc,available,26.06,26.06,medium,low,8,porkbun,,,29/09/2026 18:33
 46f68d85-9028-4327-84dc-1f6d86e8e58c,crocked.vc,available,32.98,41.98,low,low,7,namecheap,,,09/08/2026 15:34
+fbdf5ad3-2ddb-4c26-b0f6-ce40b14ccf7d,dedham.vc,available,27.5,27.5,medium,low,6,dynadot,,,29/09/2026 22:43
 75d7dbb1-101f-4e3e-a557-92060d28583c,arbitrator.vc,available,32.98,41.98,medium,low,10,namecheap,,,20/09/2026 00:44
 9e55b44f-1d39-4d0a-aa81-7ffcb4ebc3d3,blithe.vc,available,32.98,41.98,high,low,6,namecheap,,,10/08/2026 14:37
 db56b0c7-1da7-44de-acbd-d6bce0a475dc,housman.vc,available,32.98,41.98,medium,low,7,namecheap,,,16/09/2026 12:57
@@ -686,13 +747,14 @@ b64afacd-b41c-4640-9943-6afd419f1ee2,algol.vc,available,32.98,41.98,medium,low,5
 f0d219b1-fcb8-4c32-9fd0-45c46e55e0a1,acousma.vc,available,32.98,41.98,medium,low,7,namecheap,,,17/09/2026 02:29
 89cb0eda-2e24-4fcc-a5f4-43b420974005,burlesque.vc,available,32.98,41.98,high,low,9,namecheap,,,11/08/2026 10:40
 ac677f42-4c8a-4b1d-92e8-7419b68a1758,manycore.vc,available,32.98,41.98,medium,low,8,namecheap,,,17/09/2026 08:17
+4917d9ac-febf-4b32-b235-ad1a03efa90f,skipping.vc,available,32.98,41.98,high,low,8,namecheap,,,29/09/2026 08:59
 164e7e8b-349b-4c59-a1b4-a65695f677bf,glittering.vc,available,32.98,41.98,high,low,10,namecheap,,,
 2e666b54-7c2f-4aa5-8997-2aad20fb37a5,ebionite.vc,available,32.98,41.98,medium,low,8,namecheap,,,14/08/2026 23:04
 7f9c3832-193f-4d7a-806f-4f5d8ea16ff3,applejack.vc,available,32.98,41.98,medium,low,9,namecheap,,,19/09/2026 21:35
-d450f3ad-7343-4a37-8ddf-fbdd4de6ef09,landscaped.vc,available,32.98,41.98,medium,low,10,namecheap,,,22/08/2026 19:30
+d450f3ad-7343-4a37-8ddf-fbdd4de6ef09,landscaped.vc,available,32.98,41.98,high,low,10,namecheap,,,22/08/2026 19:30
 7427f958-cc74-4a99-b56c-aab8426ec916,engines.vc,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 19:59
 f434b716-0e24-4db4-8a48-652874f2a363,polydactyl.vc,available,32.98,41.98,medium,low,10,namecheap,,,08/09/2026 23:13
-80df2e17-5f43-478c-9e2c-fe905f195a33,plutonium.vc,available,32.98,41.98,medium,low,9,namecheap,,,21/09/2026 00:12
+80df2e17-5f43-478c-9e2c-fe905f195a33,plutonium.vc,available,32.98,41.98,high,low,9,namecheap,,,21/09/2026 00:12
 5b021270-6bb9-4366-85f9-0dbd449e3fa0,analecta.vc,available,39,46.99,medium,low,8,name.com,,,19/09/2026 01:47
 5e6183eb-a2f5-40d4-8d65-304bd4eedd79,squiffy.vc,available,32.98,41.98,low,low,7,namecheap,,,09/08/2026 16:38
 dae6298e-c3fe-4540-a7df-4b05d9a9ed5d,typing.vc,available,39,,high,low,6,name.com,,,
@@ -710,20 +772,22 @@ acc9a6ef-9761-4740-8ff0-b9df0d7ddf74,bosh.vc,available,32.98,41.98,medium,low,4,
 abc23f3a-45f6-4780-9b3e-6014590c871b,hardly.vc,available,26.06,26.06,high,low,6,porkbun,,,27/09/2026 18:23
 f9b89c75-987e-4029-94a6-28ac98068fe0,parhelic.vc,available,32.98,41.98,medium,low,8,namecheap,,,08/09/2026 01:31
 2f913f2c-b5b8-440b-ad80-1350732fbf3e,flowers.vc,available,,,high,medium,7,,,,
-6ff24810-8c32-4874-83f8-49fb4587cf52,deck.vc,resell,,,high,low,4,"Name.com, Inc.",05/05/2018 21:17,05/05/2027 21:17,26/09/2026 05:27
+6ff24810-8c32-4874-83f8-49fb4587cf52,deck.vc,resell,,,high,low,4,"Name.com, Inc.",05/05/2018 21:17,05/05/2027 21:17,29/09/2026 13:27
 2d224746-0378-4cb5-a1d0-32383735a4a9,manfred.vc,available,32.98,41.98,high,low,7,namecheap,,,28/09/2026 07:56
 7971e3cd-d56a-4d1c-8e0f-f21da9ef27f4,ilama.vc,available,32.98,41.98,medium,low,5,namecheap,,,19/09/2026 10:33
+0cd4a807-c3e3-4890-a792-3c94e6a228ae,grabs.vc,available,32.98,41.98,medium,low,5,namecheap,,,29/09/2026 11:38
 fc89b48d-9dd5-4ec8-acb2-da18c0689880,finicky.vc,available,32.98,41.98,medium,low,7,namecheap,,,18/08/2026 04:58
 605484ee-86dc-4344-a446-ea7c4d840601,conceited.vc,available,32.98,41.98,medium,low,9,namecheap,,,12/08/2026 19:54
 af599dda-49de-461f-ac0f-c14b48c2eeab,firmly.vc,available,32.98,41.98,high,low,6,namecheap,,,19/09/2026 17:07
 22df43dc-13ee-413e-94dd-806a8b833a21,turtles.vc,available,26.06,26.06,medium,low,7,porkbun,,,28/09/2026 23:52
-9239b658-d68b-443d-93c9-5542658bb310,appetiser.vc,available,32.98,41.98,medium,low,9,namecheap,,,19/09/2026 20:48
+9239b658-d68b-443d-93c9-5542658bb310,appetiser.vc,available,32.98,41.98,high,low,9,namecheap,,,19/09/2026 20:48
 91042121-414c-44c9-825d-07d580364cce,makings.vc,available,32.98,41.98,high,low,7,namecheap,,,20/09/2026 04:27
 fc0c6b82-1993-4192-b12b-c28bd8102966,shrinkable.vc,available,32.98,41.98,high,medium,10,namecheap,,,10/09/2026 06:57
 ebda894f-99c7-45bf-b1af-80a8f235a7ca,aper.vc,available,32.98,41.98,medium,low,4,namecheap,,,19/09/2026 16:29
 083745c2-9969-405f-ae83-3539da765b8a,addled.vc,available,32.98,41.98,medium,low,6,namecheap,,,
 3e8bf53b-b9eb-4d26-86ad-2baf020fdf7c,genesee.vc,available,32.98,41.98,medium,low,7,namecheap,,,28/09/2026 08:10
 622cdd3c-2ff5-4c46-bbb7-0c7d2ffa5d69,splitting.vc,available,32.98,41.98,high,low,9,namecheap,,,09/09/2026 14:01
+c9ecb061-0bbf-4d6f-9a08-7bf1dc9daf68,socialism.vc,available,27.5,27.5,high,low,9,dynadot,,,29/09/2026 20:26
 39cc2011-9fc9-4c67-91b4-1c527267f54b,hump.vc,available,32.98,41.98,high,low,4,namecheap,,,24/09/2026 11:03
 465cfbae-2feb-4122-a866-ab3c25efbb92,involves.vc,available,32.98,41.98,medium,low,8,namecheap,,,19/09/2026 23:56
 25875e2a-2d54-431c-949a-8ba744b654f0,withdrawal.vc,available,32.98,41.98,high,low,10,namecheap,,,21/09/2026 15:22
@@ -740,11 +804,13 @@ f7fb8a23-1724-43db-8923-8d64c1db2872,peanuts.vc,available,32.98,41.98,high,low,7
 522e6f9d-cc3c-40c8-b48c-bb7d9055517b,prosthetic.vc,available,32.98,41.98,high,low,10,namecheap,,,09/09/2026 03:55
 3005e48f-b623-468d-8bab-54fc5cfcfe79,stilt.vc,available,32.98,41.98,medium,low,5,namecheap,,,21/09/2026 04:51
 61ede7ff-3eef-40d9-b57d-331c05cf9c0b,shortcuts.vc,available,32.98,41.98,medium,medium,10,namecheap,,,18/09/2026 08:11
-a10be7d1-a800-4748-8bb5-8eb76fcec41e,inflowing.vc,available,32.98,41.98,medium,low,9,namecheap,,,22/08/2026 04:34
+a10be7d1-a800-4748-8bb5-8eb76fcec41e,inflowing.vc,available,32.98,41.98,high,low,9,namecheap,,,22/08/2026 04:34
+688cafb7-e52e-4b66-8361-b7ad64b64882,sevilla.vc,available,32.98,41.98,high,low,7,namecheap,,,29/09/2026 13:56
 6ad4452c-4690-4ed3-ba0b-53ddf48c4bfe,multiplayer.vc,available,32.98,41.98,high,low,11,namecheap,,,25/09/2026 12:15
 68ccc063-c849-4d81-a4e8-496afe81e228,arm.vc,resell,,,high,medium,3,Dynadot Inc,23/07/2020 16:59,23/07/2027 16:59,28/09/2026 22:04
 2aea7b93-e7ed-4cdc-897a-1f489c0aa3c1,taint.vc,available,32.98,41.98,medium,low,5,namecheap,,,24/09/2026 17:39
 40b1f01a-2c29-4d54-b9a8-4064bd407b8b,balker.vc,available,32.98,41.98,medium,low,6,namecheap,,,03/09/2026 18:54
+b28473dd-48f2-4a55-81c9-b0014dae6149,heater.vc,available,27.5,27.5,high,low,6,dynadot,,,29/09/2026 12:14
 f3e21c52-e2df-4175-8e22-e485c73a659f,sodden.vc,available,32.98,41.98,medium,low,6,namecheap,,,10/09/2026 13:24
 9d3bde28-c13b-4d33-a1b4-194b46ac4040,preparing.vc,available,32.98,41.98,high,low,9,namecheap,,,27/09/2026 06:40
 599ee3cb-99a1-459c-9f45-a1a39dca8d9d,luxurious.vc,available,32.98,41.98,high,low,9,namecheap,,,14/08/2026 00:57
@@ -753,13 +819,14 @@ f3e21c52-e2df-4175-8e22-e485c73a659f,sodden.vc,available,32.98,41.98,medium,low,
 1634f684-79a9-4957-a8f4-82046dffedd1,normality.vc,available,39,,high,low,9,name.com,,,
 98201bb7-f85c-438d-aad7-582b87c0f44b,disulfiram.vc,available,32.98,41.98,medium,low,10,namecheap,,,19/09/2026 12:22
 2e5a017c-7e5d-4009-b7b8-380bfed5581f,nourished.vc,available,32.98,41.98,high,low,9,namecheap,,,03/09/2026 22:12
-deec9d8e-c9f2-4a22-9aa0-dd7c3dd75855,thatcher.vc,available,32.98,41.98,medium,low,8,namecheap,,,22/09/2026 07:26
+deec9d8e-c9f2-4a22-9aa0-dd7c3dd75855,thatcher.vc,available,32.98,41.98,high,low,8,namecheap,,,22/09/2026 07:26
 8fd0e44a-6be7-45eb-a742-2a5406503f60,blenheim.vc,available,32.98,41.98,medium,low,8,namecheap,,,24/09/2026 05:52
 63894e4a-0aaa-469b-b537-d3a48083dc77,compton.vc,available,32.98,41.98,high,low,7,namecheap,,,20/09/2026 10:47
 90da09f2-938d-423e-a69f-95ea309c3870,montevideo.vc,available,32.98,41.98,high,low,10,namecheap,,,24/09/2026 12:30
 c59d7b06-1703-480f-977f-a5c066bbf1db,reputedly.vc,available,32.98,41.98,medium,low,9,namecheap,,,15/09/2026 23:20
 bca2f2ab-74c0-4af6-a719-458fd6997223,argentina.vc,resell,,,high,high,9,Dynadot Inc,11/12/2025 00:41,11/12/2026 00:41,26/09/2026 03:59
 2a417871-d546-4d47-be40-3370804355e3,ruffian.vc,available,32.98,41.98,medium,low,7,namecheap,,,11/08/2026 08:41
+4f988ec1-6272-46ff-96a2-aa6e075eb1f3,danvers.vc,available,32.98,41.98,medium,low,7,namecheap,,,29/09/2026 22:33
 b07e6a31-6c5d-4407-afe3-f37d22cbd258,amiable.vc,available,32.98,41.98,high,low,7,namecheap,,,21/09/2026 21:32
 658ce8ea-9307-4928-b1cf-818fcda8d5c7,notes.vc,resell,,,high,low,5,"Sav.com, LLC",17/07/2026 17:01,17/07/2027 17:01,26/09/2026 07:49
 620e7dd2-d9d9-4eca-9900-84325e5336d5,netted.vc,available,32.98,41.98,medium,low,6,namecheap,,,03/09/2026 16:02
@@ -775,22 +842,25 @@ c70ca91f-751b-440c-a786-a342b8b9d9bb,randomised.vc,available,32.98,41.98,high,me
 0b82157e-bc46-474c-9dfb-cbbd8b33687b,twofold.vc,available,32.98,41.98,medium,low,7,namecheap,,,14/08/2026 16:39
 beb1df5f-c261-4a05-a771-576ae35e4777,dilate.vc,available,32.98,41.98,medium,low,6,namecheap,,,16/08/2026 00:39
 b4328a6b-d31a-45bd-a753-9c15e5c4c2f4,mesozoic.vc,available,32.98,41.98,medium,low,8,namecheap,,,24/08/2026 21:21
-cfec92f3-79be-451e-8208-c0413da38f0f,contested.vc,available,32.98,41.98,medium,low,9,namecheap,,,23/09/2026 22:01
+cfec92f3-79be-451e-8208-c0413da38f0f,contested.vc,available,32.98,41.98,high,low,9,namecheap,,,23/09/2026 22:01
 f185aa61-c8de-4e5b-ab99-51dffc8fccee,whitish.vc,available,32.98,41.98,medium,low,7,namecheap,,,24/08/2026 23:06
 19a75a69-880f-4abb-934a-604e539788b7,arminius.vc,available,32.98,41.98,medium,low,8,namecheap,,,20/09/2026 07:08
 8b67e1be-ee7b-44b6-bd27-8dc49abda575,americans.vc,available,32.98,41.98,medium,low,9,namecheap,,,08/09/2026 06:41
 5ff6f19f-f0f8-4d1d-ad54-0d0ee0b297ad,tasmania.vc,available,32.98,41.98,high,low,8,namecheap,,,27/09/2026 16:02
 603d698a-a263-4fa1-9895-ea1d82d42afc,inpatient.vc,available,32.98,41.98,medium,low,10,namecheap,,,20/09/2026 21:46
+3131c7b6-9a29-4966-b99f-298aee5d9272,aron.vc,available,32.98,41.98,high,low,4,namecheap,,,29/09/2026 15:32
 e11faf26-e72e-4c63-a17e-b2469e284d61,moravian.vc,available,32.98,41.98,high,low,8,namecheap,,,25/08/2026 06:14
+6e300323-5598-4af2-b5a1-078c236ba662,hearn.vc,available,27.5,27.5,high,low,5,dynadot,,,29/09/2026 15:40
 1faa0920-f66d-425e-8b8c-77a53f5aeb36,androgenic.vc,available,32.98,41.98,medium,low,10,namecheap,,,
 35ac8808-d515-4b8d-bd45-6db64812c1b8,bigamist.vc,available,32.98,41.98,medium,low,8,namecheap,,,23/09/2026 15:02
 85d6b213-300b-4b44-a4c8-c88e9f1c6a3f,ramsey.vc,available,32.98,41.98,high,low,6,namecheap,,,25/09/2026 15:22
 aeaac1f3-d6d4-49f2-89c5-9b802dd7ae5c,clowning.vc,available,32.98,41.98,medium,low,8,namecheap,,,29/09/2026 05:10
 06c44ea3-1f8e-4cdf-a861-b1b2a392768e,lethargic.vc,available,32.98,41.98,medium,low,9,namecheap,,,23/08/2026 00:27
-863b4eca-0c5b-4ded-a91c-f05c628fda72,bellyful.vc,available,32.98,41.98,medium,low,8,namecheap,,,23/09/2026 06:51
+863b4eca-0c5b-4ded-a91c-f05c628fda72,bellyful.vc,available,32.98,41.98,high,low,8,namecheap,,,23/09/2026 06:51
 e7d252f7-9ddd-433a-842a-313b79073956,calf.vc,available,27.5,27.5,high,low,4,dynadot,,,29/09/2026 05:52
 2285f846-5fd0-4e37-a600-1c3d26291cca,ambergris.vc,available,32.98,41.98,medium,low,9,namecheap,,,18/09/2026 16:37
-e24222b8-e9be-4add-aed0-235d2978e099,theorise.vc,available,32.98,41.98,medium,low,8,namecheap,,,24/09/2026 17:20
+5899c636-71be-4ba8-8e63-d86babccaa65,requiring.vc,available,26.06,26.06,high,low,9,porkbun,,,30/09/2026 03:46
+e24222b8-e9be-4add-aed0-235d2978e099,theorise.vc,available,32.98,41.98,high,low,8,namecheap,,,24/09/2026 17:20
 babcce7f-a81c-47b3-93e3-4587212fba7e,russia.vc,resell,,,high,medium,6,"Name.com, Inc.",04/04/2019 08:27,04/04/2028 08:27,26/09/2026 08:46
 ae2bd3e9-f536-4b61-a16d-7785ea11285a,respectively.vc,available,39,,medium,low,12,name.com,,,
 0cbf67a1-0c99-4bc2-ab86-f493bc2b5a56,blanc.vc,available,32.98,41.98,high,low,5,namecheap,,,24/09/2026 03:47
@@ -803,16 +873,17 @@ e63df9b6-7002-4d70-8ffd-464966a06447,beigel.vc,available,32.98,41.98,high,low,6,
 0f005a02-0a2a-42b7-8953-370c6e83a8c1,fill.vc,resell,,,high,low,4,Porkbun LLC,19/12/2023 21:52,19/12/2026 21:52,27/09/2026 11:50
 5d9a6374-b91a-4d8b-94bb-cf5e182b45eb,facebook.vc,resell,,,high,high,8,"humbly, LLC",03/01/2018 01:07,03/01/2027 01:07,26/09/2026 05:59
 3a5f0afc-0b5a-40be-b155-7d058f93012e,asepsis.vc,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 15:02
-be718e27-838a-485c-acba-00ff372e53da,tirelessly.vc,available,32.98,41.98,medium,low,10,namecheap,,,15/09/2026 07:50
+be718e27-838a-485c-acba-00ff372e53da,tirelessly.vc,available,32.98,41.98,high,low,10,namecheap,,,15/09/2026 07:50
 130bbf80-872d-48d1-bde3-afbe943a7df4,hollywood.vc,resell,,,high,low,9,"humbly, LLC",04/08/2019 01:07,04/08/2027 01:07,26/09/2026 06:42
 f2609f7d-6f54-45ab-b4e3-2486494e8d22,conducted.vc,available,39,,medium,low,9,name.com,,,
 e0602755-a09a-4af2-ae94-d4e890a22c5a,darling.vc,available,32.98,41.98,high,low,7,namecheap,,,09/08/2026 13:48
 5d9bffb5-9417-47ca-902b-19c46af3db06,potter.vc,available,32.98,41.98,high,low,6,namecheap,,,27/09/2026 12:23
+92332494-2361-4408-8de4-e849d4cea5c2,illegitimate.vc,available,32.98,41.98,medium,low,12,namecheap,,,30/09/2026 03:36
 1c69bce3-db62-4b5a-a161-582a72f68dce,acyl.vc,available,32.98,41.98,medium,low,4,namecheap,,,17/09/2026 05:49
 9d525234-5a0c-46f1-8016-35e7144136ca,spurious.vc,available,32.98,41.98,medium,low,8,namecheap,,,09/08/2026 00:03
 5a8db7be-499b-4c92-8cd2-519eb619ff47,piddling.vc,available,32.98,41.98,medium,low,8,namecheap,,,18/08/2026 03:33
 d7f99cbc-f711-4675-a52a-af2023566945,deprave.vc,available,32.98,41.98,medium,low,7,namecheap,,,13/08/2026 02:24
-c2dc34fc-52ab-464a-bb4d-6eeac9eec58c,oberlin.vc,available,26.06,26.06,medium,low,7,porkbun,,,28/09/2026 04:20
+c2dc34fc-52ab-464a-bb4d-6eeac9eec58c,oberlin.vc,available,26.06,26.06,high,low,7,porkbun,,,28/09/2026 04:20
 65c100cc-1a26-4b33-91da-cd53eb66d616,romp.vc,available,32.98,41.98,high,low,4,namecheap,,,09/09/2026 19:26
 5a81dd7a-e122-4ff5-bbcd-1ed7f47dccd9,lewes.vc,available,26.06,26.06,medium,low,5,porkbun,,,28/09/2026 23:03
 64001c4d-60ed-4e5f-b1ed-f0cf70f29170,anthropoid.vc,available,32.98,41.98,medium,low,10,namecheap,,,
@@ -826,9 +897,11 @@ dfb792ac-5713-4c6b-8cf8-a9b85971b54f,antipodal.vc,available,32.98,41.98,medium,l
 f435b50a-cead-4f57-9ea4-dea388aaa89e,anaphase.vc,available,32.98,41.98,medium,low,8,namecheap,,,19/09/2026 02:09
 bfa5019f-db35-41b4-8863-e4af5eed7e02,pyknotic.vc,available,32.98,41.98,high,medium,8,namecheap,,,09/09/2026 06:50
 0ad57518-00b4-4e9b-802c-fe07518c604d,visualise.vc,available,32.98,41.98,high,low,9,namecheap,,,24/09/2026 16:40
+019d24ad-7eb0-4de6-841e-147c127767b6,initiated.vc,available,26.06,26.06,medium,low,9,porkbun,,,29/09/2026 11:07
 c13d4cef-be26-43c1-a571-76caba2a3d02,flag.vc,resell,,,high,low,4,"GoDaddy.com, LLC",27/07/2020 03:37,27/07/2027 03:37,26/09/2026 06:07
 9f1b25c7-3eba-4cf2-92f1-778013183571,supplier.vc,available,39,,high,low,8,name.com,,,
 1e6b03b6-812f-4f37-a62d-1c29f87747c1,scrape.vc,available,32.98,41.98,high,low,6,namecheap,,,16/09/2026 16:59
+0de7539b-89d5-4ae2-906d-a19d247a75e3,thuringia.vc,available,27.5,27.5,medium,low,9,dynadot,,,30/09/2026 03:01
 4d67817d-f1ea-4864-b832-37e5b4cbdeb1,crawler.vc,available,32.98,41.98,high,low,7,namecheap,,,19/09/2026 06:39
 821b71e7-de61-4452-a4ef-bd3596f96975,crisply.vc,available,32.98,41.98,medium,low,7,namecheap,,,14/09/2026 09:37
 ee2df20f-32d3-47bd-bc15-a6d8d327d24c,klamath.vc,available,26.06,26.06,high,low,7,porkbun,,,28/09/2026 06:07
@@ -844,9 +917,10 @@ a678d792-2856-40b5-bbe1-060b8f194781,tactically.vc,available,32.98,41.98,medium,
 ca930741-110e-4010-94ce-53abdec11706,corrupt.vc,available,32.98,41.98,high,low,7,namecheap,,,23/09/2026 23:53
 bb24a465-0261-49cb-8986-75965eaf2ab2,bigwig.vc,available,32.98,41.98,high,low,6,namecheap,,,23/09/2026 15:30
 a5d796b5-3625-4b53-8f01-a1d278bc7346,lilac.vc,resell,,,high,low,5,"GoDaddy.com, LLC",17/08/2020 00:03,17/08/2027 00:03,26/09/2026 07:14
-72c2a693-c2b3-440b-924a-12e97af1dd5c,pretoria.vc,available,39,,high,low,8,name.com,,,
+72c2a693-c2b3-440b-924a-12e97af1dd5c,pretoria.vc,available,32.98,41.98,high,low,8,namecheap,,,29/09/2026 06:55
 04d31708-aad4-445d-9699-1c664103bd99,unfamiliar.vc,available,32.98,41.98,high,low,10,namecheap,,,12/09/2026 09:55
 b35f36cc-c526-40e3-9a36-37c48265d6e7,signal.vc,resell,,,high,medium,6,,,,27/09/2026 22:11
+e9b66c82-68ea-4319-9145-cc19ad865125,respiration.vc,available,27.5,27.5,high,low,11,dynadot,,,29/09/2026 23:19
 3b65b2bb-b47e-41dd-9721-abc235a2feba,burger.vc,resell,,,high,low,6,Dynadot Inc,05/11/2024 07:16,05/11/2027 07:16,29/09/2026 01:52
 52de8f93-c8c4-46f3-a3c9-7edb7392113f,copperhead.vc,available,32.98,41.98,medium,low,10,namecheap,,,17/09/2026 18:16
 9d884c5c-833b-439a-abfa-2a21c6798244,roadless.vc,available,32.98,41.98,medium,low,8,namecheap,,,08/09/2026 10:27
@@ -857,7 +931,7 @@ ba2df67b-0ac9-4fb6-9344-e397b2c26dd8,could.vc,available,39,,high,low,5,name.com,
 649bd66c-cb08-4366-b3b1-bb10141f62ab,came.vc,available,39,,high,low,4,name.com,,,
 052e1665-509f-41ab-9038-a1c052df8e8b,ravaging.vc,available,32.98,41.98,high,medium,8,namecheap,,,09/09/2026 10:39
 17a423c1-5c8c-42d6-bfbc-50985f3ca76a,wolfish.vc,available,32.98,41.98,medium,low,7,namecheap,,,15/08/2026 07:01
-7393c46c-3a23-4eea-9f9a-cae777c56c42,epileptic.vc,available,32.98,41.98,medium,low,9,namecheap,,,17/08/2026 10:58
+7393c46c-3a23-4eea-9f9a-cae777c56c42,epileptic.vc,available,32.98,41.98,high,low,9,namecheap,,,17/08/2026 10:58
 1a51963d-2d1a-43a5-bc97-d81905c3e9b8,remains.vc,available,32.98,41.98,medium,low,7,namecheap,,,27/09/2026 03:27
 e0d9da50-4589-4500-bd1d-8ae72337a413,hospitably.vc,available,32.98,41.98,medium,low,10,namecheap,,,15/09/2026 01:10
 cf18df0c-8e27-4de5-9fb0-b9cacbdf9c21,pursy.vc,available,32.98,41.98,high,medium,5,namecheap,,,09/09/2026 06:28
@@ -867,7 +941,7 @@ b095d9cb-dd4c-42e8-b8db-eea95f0f71a7,acetonic.vc,available,32.98,41.98,medium,lo
 4815e851-1766-4e9d-914b-78460c51a200,winless.vc,available,32.98,41.98,medium,low,7,namecheap,,,13/09/2026 12:35
 9bbeee30-f7c1-4bfe-ad28-5ff47269dfbb,bris.vc,available,32.98,41.98,high,low,4,namecheap,,,23/09/2026 09:28
 3ecd49ac-ad14-4f7d-82dc-08e1e4495a27,obliging.vc,available,32.98,41.98,high,low,8,namecheap,,,12/08/2026 19:27
-add083e9-50f0-4672-a108-eae95681158b,ebullient.vc,available,32.98,41.98,medium,low,9,namecheap,,,14/08/2026 23:20
+add083e9-50f0-4672-a108-eae95681158b,ebullient.vc,available,32.98,41.98,high,low,9,namecheap,,,14/08/2026 23:20
 4687d655-0c93-49fc-b8f1-bdff648cbf77,forsyth.vc,available,32.98,41.98,high,low,7,namecheap,,,27/09/2026 21:08
 46f7c4f7-012d-485f-8432-735d7c1d717a,excursive.vc,available,32.98,41.98,medium,low,9,namecheap,,,17/08/2026 16:39
 2b0161c7-5f1c-4062-b607-9ea3eb852613,authorization.vc,available,32.98,41.98,medium,low,13,namecheap,,,28/09/2026 08:21
@@ -895,7 +969,7 @@ ca90d4a0-3df0-4ad5-a411-87b7c3673a43,stanley.vc,resell,,,high,low,7,"GoDaddy.com
 6237b86b-18e9-4c1c-9023-f821e5e9a362,nostrils.vc,available,39,,medium,low,8,name.com,,,
 5b3499d7-ced5-4f76-924d-96d3a96e4057,probiotic.vc,available,26.06,26.06,high,low,9,porkbun,,,28/09/2026 02:50
 0ee35a38-8b21-40a4-9242-d213c0ff50ef,maximal.vc,resell,,,high,low,7,Dynadot Inc,06/08/2023 07:19,06/08/2027 07:19,26/09/2026 07:28
-88eb9130-f69f-4d19-8762-d8df8ea09fde,demise.vc,available,32.98,41.98,medium,low,6,namecheap,,,14/08/2026 21:56
+88eb9130-f69f-4d19-8762-d8df8ea09fde,demise.vc,available,32.98,41.98,high,low,6,namecheap,,,14/08/2026 21:56
 77eb9ab8-9a5b-4a79-8fcf-213a640143dc,guantanamo.vc,available,26.06,26.06,medium,low,10,porkbun,,,28/09/2026 09:58
 c7e22f09-b6b2-4aa8-9671-b0500ca35bb5,joplin.vc,available,27.5,27.5,medium,low,6,dynadot,,,28/09/2026 19:32
 b9e3e342-71c0-492e-8193-21b10be0d9ee,orangutan.vc,available,39,,high,low,9,name.com,,,
@@ -924,78 +998,4 @@ b0c68a16-e2a8-4c61-a24b-6142a3e350df,masterpiece.vc,resell,,,high,medium,11,,,,2
 15a3828a-1bee-46bf-98a2-c92182f71278,intrepid.vc,resell,,,high,low,8,Dynadot Inc,23/07/2020 16:36,23/07/2027 16:36,26/09/2026 06:56
 2fc8b884-ac17-4b2c-90d3-8a7fb670ae12,biochip.vc,available,32.98,41.98,high,low,7,namecheap,,,23/09/2026 17:46
 351235cb-e019-49b7-9695-1f23391d4b40,vaccinated.vc,available,32.98,41.98,high,low,10,namecheap,,,21/08/2026 21:34
-e91d1bee-71be-4a8f-af77-b3731d0d6636,sheppard.vc,available,32.98,41.98,medium,low,8,namecheap,,,27/09/2026 08:04
-9dcb9164-61c3-4fd0-aa92-b3c81b284320,adana.vc,available,32.98,41.98,medium,low,5,namecheap,,,17/09/2026 06:19
-2c1aed89-b9ed-4ea1-9451-808a166e9bbf,gromyko.vc,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 04:28
-cfbfabbc-320b-4c59-ab47-100f9b26d23d,rudiment.vc,available,32.98,41.98,medium,low,8,namecheap,,,16/09/2026 14:36
-0ff4c95f-5bd5-4f69-aada-71e5b8cf7f17,saler.vc,available,39,,medium,low,5,name.com,,,
-533935a8-c77d-4e89-82a0-55d3f4e29ed0,anaphora.vc,available,39,46.99,medium,low,8,name.com,,,19/09/2026 02:13
-90ad436b-938b-4789-ae7c-1ae330eead96,successive.vc,available,32.98,41.98,high,low,10,namecheap,,,10/09/2026 04:29
-43f8d5a0-22fb-44c7-94ed-b80072c401db,altering.vc,available,32.98,41.98,high,low,8,namecheap,,,18/09/2026 14:47
-84df062a-ded1-4373-a335-8c5eae5fa6a8,diagonally.vc,available,32.98,41.98,medium,low,10,namecheap,,,14/09/2026 12:34
-650914f6-50c3-4431-8672-71b74c120e6e,aphakia.vc,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 16:51
-96bf2e06-0757-4d4e-a484-0a096b2d455c,stretches.vc,available,32.98,41.98,medium,low,9,namecheap,,,18/09/2026 07:56
-e026d263-b0de-403b-9af5-71de7df3fe4d,modernized.vc,available,32.98,41.98,high,low,10,namecheap,,,19/09/2026 17:17
-8e5c4c94-31be-45d2-bde9-be985becf719,digestive.vc,available,32.98,41.98,high,low,9,namecheap,,,24/08/2026 15:24
-c11d0a2d-3c48-47db-a1a3-92cb0927354c,notified.vc,available,32.98,41.98,medium,low,8,namecheap,,,28/09/2026 05:08
-6491a80b-8164-4fb5-9457-5770d7eb3e5d,orphans.vc,available,27.5,27.5,low,low,7,dynadot,,,28/09/2026 18:19
-8535d079-a88f-4840-a58d-5837c83c2860,fawning.vc,available,32.98,41.98,medium,low,7,namecheap,,,10/08/2026 19:43
-9434849c-7b7e-4057-a901-4dd97bf8a5c7,rente.vc,available,32.98,41.98,high,low,5,namecheap,,,19/09/2026 10:58
-e4c035b3-46c4-48ef-9a05-ab0306df6a01,weaned.vc,available,32.98,41.98,medium,low,6,namecheap,,,13/09/2026 08:53
-6eff9252-84e4-405c-8dc2-f7d704771b9a,bayonet.vc,available,32.98,41.98,medium,low,7,namecheap,,,22/09/2026 18:04
-b5c9e913-e83d-4761-a79a-6d3c8a8fde41,identified.vc,available,32.98,41.98,high,low,10,namecheap,,,25/09/2026 07:25
-dbfb7864-cace-4fb1-a58b-e65a03d10fc7,phrenic.vc,available,32.98,41.98,high,medium,7,namecheap,,,08/09/2026 19:21
-7e6417b6-6021-438f-837b-c5bb6114d935,guild.vc,resell,,,high,low,5,,,,29/09/2026 01:05
-f2f88f27-aea1-4478-9106-6727d38cbd67,gag.vc,available,32.98,41.98,high,low,3,namecheap,,,25/09/2026 10:25
-bd126469-8b86-4801-8df6-f65f38b434a0,vet.vc,resell,,,high,low,3,Porkbun LLC,10/08/2018 06:20,10/08/2027 06:20,26/09/2026 09:58
-38a54f2a-ca1b-4184-84bc-43fdf05b4dba,agora.vc,resell,,,high,medium,5,Dynadot Inc,20/08/2020 01:05,20/08/2027 01:05,26/09/2026 01:27
-da52a13d-d4f7-424b-b61a-4a9aadf23776,jena.vc,available,32.98,41.98,medium,low,4,namecheap,,,22/09/2026 15:18
-c7e5f4c8-6db1-4cc0-9a36-decbfc253f4d,singhalese.vc,available,32.98,41.98,high,medium,10,namecheap,,,10/09/2026 08:21
-601cb1aa-61fe-4d38-809a-c2810cc816ef,aside.vc,available,32.98,41.98,high,low,5,namecheap,,,28/09/2026 12:23
-8c826338-cdc8-4b6f-9084-d1f3c0a16119,bister.vc,available,32.98,41.98,medium,low,6,namecheap,,,23/09/2026 22:08
-14ed3a50-4bf5-43d4-bf57-dcf0f2482543,curable.vc,available,32.98,41.98,high,low,7,namecheap,,,13/08/2026 10:59
-ad0ba839-106a-47c0-983c-0cfb5c8f62e2,lachrymose.vc,available,32.98,41.98,medium,low,10,namecheap,,,14/08/2026 15:34
-73dbd674-4818-43cb-bfd5-099eb1dd0ab5,pyloric.vc,available,32.98,41.98,high,medium,7,namecheap,,,09/09/2026 06:52
-59662b87-056c-431f-ad9a-f7c7b2e3fd7f,dysphoric.vc,available,32.98,41.98,medium,low,9,namecheap,,,14/08/2026 22:07
-9faa746a-2d02-486f-add6-19fb0e033aac,eliminate.vc,available,39,,high,low,9,name.com,,,
-af96dde6-e4e4-442b-abe8-92b1ada41cce,corresponding.vc,available,39,,medium,low,13,name.com,,,
-15d8dfd8-95f6-4ec7-9f0a-1c58ae7e7d72,autostrada.vc,available,32.98,41.98,medium,low,10,namecheap,,,21/09/2026 07:54
-a83b3d57-e3a4-484e-ab28-8bdd547e4b9f,bari.vc,available,32.98,41.98,high,low,4,namecheap,,,22/09/2026 05:51
-c9d08ae3-0de8-4a58-b76b-49b2d0281ec9,bedevil.vc,available,32.98,41.98,medium,low,7,namecheap,,,14/08/2026 21:15
-2a28dbc9-3a16-47f4-8e09-3d53d3dad62f,stuff.vc,resell,,,high,low,5,Dynadot Inc,01/07/2020 00:38,01/07/2027 00:38,26/09/2026 09:22
-0bf1ac24-bb2a-4971-8b3f-f04a549e9b10,birretta.vc,available,32.98,41.98,medium,low,8,namecheap,,,23/09/2026 10:09
-068c7e47-2a93-48bb-b10e-1bdebe8409bb,punctuate.vc,available,32.98,41.98,high,low,9,namecheap,,,16/09/2026 21:54
-cee2cf57-ffa8-40c5-ab03-1a6fe740bbf6,highest.vc,available,32.98,41.98,medium,low,7,namecheap,,,25/09/2026 16:49
-d4de7b58-ee67-4f9f-9274-46cd26117ac4,peach.vc,resell,,,high,low,5,"GoDaddy.com, LLC",14/07/2022 01:12,14/07/2027 01:12,26/09/2026 08:04
-528fae03-2480-4f94-b9d3-5ee975511a92,exact.vc,resell,,,high,low,5,Dynadot Inc,17/08/2020 23:55,17/08/2027 23:55,26/09/2026 05:55
-881a7af4-d9bb-4762-8c2d-c2c4b6ae87af,moore.vc,resell,,,high,low,5,,,,27/09/2026 13:11
-e3035037-8d87-43a9-99be-6973e082b6a2,sentiments.vc,available,32.98,41.98,medium,low,10,namecheap,,,17/09/2026 07:39
-0ecf98e5-6638-4785-970e-fc52b32ca95b,tinkly.vc,available,32.98,41.98,medium,low,6,namecheap,,,11/09/2026 16:15
-1c729e75-0d52-44a3-b659-b4cb75af6b28,laboured.vc,available,32.98,41.98,medium,low,8,namecheap,,,22/08/2026 17:40
-a986a098-5c3c-4d20-bb8d-6ef5cc49f389,allograph.vc,available,32.98,41.98,medium,low,9,namecheap,,,18/09/2026 11:54
-781edcf3-469c-41ad-86f6-7a7645c3e810,unlined.vc,available,32.98,41.98,medium,low,7,namecheap,,,12/09/2026 14:54
-69a5ed6c-4b94-42dd-9b6e-efdba67ae9ce,tested.vc,available,49.99,49.99,high,low,6,godaddy,,,28/09/2026 02:20
-7d67598c-3ba8-4d36-bde3-8645abd345a4,roles.vc,available,27.5,27.5,medium,low,5,dynadot,,,28/09/2026 21:41
-faf7e231-e6ab-48d4-9748-c671a333aef3,hua.vc,available,32.98,41.98,high,low,3,namecheap,,,18/09/2026 01:18
-168c6d16-3723-4316-a82d-0fa8a8091e70,aleksandr.vc,available,32.98,41.98,medium,low,9,namecheap,,,28/09/2026 08:00
-9d5ada01-0d95-4608-93ee-960d03476e21,paneled.vc,available,32.98,41.98,medium,low,7,namecheap,,,05/09/2026 00:50
-f32450bb-890c-40cf-8312-8e7ff8917f85,technicality.vc,available,39,,high,low,12,name.com,,,
-376a560e-a219-4993-b9ad-1a16915686ed,embarrassed.vc,available,32.98,41.98,medium,low,11,namecheap,,,27/09/2026 06:32
-702c8433-5be1-48a5-8116-21453e9df6ea,simplistic.vc,available,32.98,41.98,high,medium,10,namecheap,,,10/09/2026 08:16
-8496da59-a7dc-432d-8b99-36552c0a96ec,scully.vc,available,32.98,41.98,medium,low,6,namecheap,,,28/09/2026 11:43
-4f6d7c26-4e7e-40d0-ade9-83a58ae028d3,baptized.vc,available,32.98,41.98,high,low,8,namecheap,,,08/08/2026 14:55
-9e306c63-6031-4d85-880d-cd9060418621,amative.vc,available,32.98,41.98,medium,low,7,namecheap,,,
-7264908e-6d0d-4f34-8469-3ae98126e8a9,equitable.vc,resell,,,high,low,9,"GoDaddy.com, LLC",17/08/2020 00:05,17/08/2027 00:05,26/09/2026 05:52
-58cbaefc-5010-4063-832e-e944d1f73250,businessman.vc,available,32.98,41.98,high,low,11,namecheap,,,19/09/2026 04:56
-d6b080b0-2e68-4bfa-a9c8-5e80917feb9a,dished.vc,available,32.98,41.98,medium,low,6,namecheap,,,14/08/2026 10:52
-e7fbb9be-5fc5-42d6-8eff-74428a1c1cf0,auberge.vc,available,39,46.99,medium,low,7,name.com,,,21/09/2026 02:29
-b0ecc99e-6a75-4406-ad35-4158900293c3,unyielding.vc,available,32.98,41.98,high,low,10,namecheap,,,14/08/2026 15:01
-3bff3c48-a816-4ee8-a1ec-3926d49375b8,lifelessly.vc,available,39,46.99,low,low,10,name.com,,,13/08/2026 19:35
-182cbc8c-17ec-4643-875f-a338f77d42ae,beldam.vc,available,32.98,41.98,medium,low,6,namecheap,,,23/09/2026 04:45
-96f0aac9-6344-4bdb-8302-f0848d0bff76,picket.vc,available,32.98,41.98,high,low,6,namecheap,,,04/09/2026 23:25
-725680d6-d44c-40d1-b6cf-0a8170ef7f59,inapt.vc,available,32.98,41.98,medium,low,5,namecheap,,,21/08/2026 18:51
-b1c5bf5f-8fd0-4428-ab70-879c4554cc1d,plank.vc,available,27.5,27.5,medium,low,5,dynadot,,,29/09/2026 01:50
-c6ed3578-836e-4679-a5fe-e9a94a7249e4,romanic.vc,available,32.98,41.98,high,medium,7,namecheap,,,09/09/2026 18:30
-e669ea0f-94cf-4706-b1cf-90a1a3f8189a,ghosts.vc,available,32.98,41.98,medium,low,6,namecheap,,,18/09/2026 22:14
-5d5cbd5c-f2f3-4698-958b-f0120edc5d3c,togged.vc,available,32.98,41.98,medium,low,6,namecheap,,,11/09/2026 16:44
-0c1bb17a-11a9-40c5-9591-95f98c9f4e50,bale.vc,available,32.98,41.98,medium,low,4,namecheap,,,21/09/2026 21:49
+e91d1bee-71be-4a8f-af77-b3731d0d6636,sheppard.vc,available,32.98,41.98,high,low,8,namecheap,,,27/09/2026 08:04
